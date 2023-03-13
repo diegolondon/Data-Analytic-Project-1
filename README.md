@@ -4,9 +4,9 @@
 Team Members -  Diego (Team Leader), Vera, Lewis, Prav, Hamim, Sultana
 
 ### Project Description/Outline:
-#-The objective of this project is to analyze the London housing market using data from public sources and APIs.
-#-The analysis will aim to identify trends in house prices, types of properties, time on market, and factors that influence property value.
-#-The project will also investigate differences between regions and cities in the London and explore potential areas for real estate investment.
+The objective of this project is to analyze the London housing market using data from public sources and APIs.
+The analysis will aim to identify trends in house prices, types of properties, time on market, and factors that influence property value.
+The project will also investigate differences between regions and cities in the London and explore potential areas for real estate investment.
 
 ### Research Questions:
 1.   What are the most popular types of properties for sale in the London? 
