@@ -15,7 +15,7 @@ Team Members -  Diego (Team Leader), Vera, Lewis, Prav, Hamim, Sultana
 4.   What are the most popular locations for real estate investment in the London? Are there any up-and-coming neighbourhoods or areas that are worth considering?
 5.   Correlation between house prices and crime statistics
 
-### Data Sets to be Used:
+### Data Sets to Used:
 
 ### References:
 
