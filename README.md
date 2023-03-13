@@ -4,7 +4,7 @@
 Team Members -  Diego (Team Leader), Vera, Lewis, Prav, Hamim, Sultana
 
 ### Project Description/Outline:
-The objective of this project is to analyse the London housing market using data from public sources and APIs.
+The aim of this project is to analyse the London housing market using data from public sources and APIs.
 The analysis will aim to identify trends in house prices, types of properties, time on market, and factors that influence property value.
 The project will also investigate differences between regions and cities in the London and explore potential areas for real estate investment.
 
