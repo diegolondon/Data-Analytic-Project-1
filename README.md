@@ -19,5 +19,10 @@ Team Members -  Diego (Team Leader), Vera, Lewis, Prav, Hamim, Sultana
 https://www.kaggle.com/datasets/arnavkulkarni/housing-prices-in-london
 
 ### References:
+https://www.youtube.com/watch?v=Wqmtf9SA_kk&t=1046s&ab_channel=NeuralNine
 
 ### Rough Breakdown of Tasks:
+1. Data Collection: Identify and gather data sources, such as csv files and APIs. Then extract and clean the data.
+2. Data Analysis: Explore and visualize the data to identify patterns and trends. Conduct statistical analyses such as finding mean, median and etc, to answer the research questions.
+3. Location Analysis: Research and analyse different areas and boroughs in London and create matplotlib map.
+4. Presentation: Create a presentation (on Powerpoint) summarising the findings and insights.
