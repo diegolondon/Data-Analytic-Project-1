@@ -13,7 +13,7 @@ The project will also investigate differences between regions and cities in the 
 2.   What is the average time that a property stays on the market in the London? Are there any trends in the time on market for different types of properties?
 3.   What factors are most important in determining the value of a property in the UK? Are there any amenities or features that increase the value of a property?
 4.   What are the most popular locations for real estate investment in the London? Are there any up-and-coming neighbourhoods or areas that are worth considering?
-5.   Correlation between house prices and crime statistics
+5.   What is the correlation between house prices and crime statistics?
 
 ### Data Sets Used:
 https://www.kaggle.com/datasets/arnavkulkarni/housing-prices-in-london
