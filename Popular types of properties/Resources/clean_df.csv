@@ -1,0 +1,2059 @@
+Price,House Type,Area in sq ft,No. of Bedrooms,Location,Post Code Category
+1675000,House,2716,5,Wimbledon,CENTRAL LONDON
+650000,Flat / Apartment,814,2,Clerkenwell,CITY OF LONDON
+735000,Flat / Apartment,761,2,Putney,CENTRAL LONDON
+1765000,House,1986,4,Putney,CENTRAL LONDON
+675000,Flat / Apartment,700,2,Putney,CENTRAL LONDON
+650000,New development,560,1, Fulham,CENTRAL LONDON
+2500000,House,2974,6,Highgate,NORTH LONDON
+725000,Flat / Apartment,778,2, St. John's Wood,NORTH WEST LONDON
+750000,Flat / Apartment,647,2,17 Abercorn Place,NORTH WEST LONDON
+12500000,House,4596,6,Regents Park,NORTH WEST LONDON
+2275000,New development,1173,3,Primrose Hill,NORTH WEST LONDON
+5500000,House,3016,4,Marylebone,CENTRAL LONDON
+8950000,New development,3154,4,10 Draycott Avenue,CENTRAL LONDON
+550000,Flat / Apartment,479,1,Islington,NORTH LONDON
+1300000,House,1101,3, Islington,NORTH LONDON
+800000,Flat / Apartment,1177,3,South Hampstead,NORTH WEST LONDON
+3500000,House,2331,4,Belsize Park,NORTH WEST LONDON
+1100000,Flat / Apartment,582,2,20-21 Wetherby Gardens,CENTRAL LONDON
+1735000,House,2118,4,Chiswick,WEST LONDON
+2350000,House,2297,5,Chiswick,WEST LONDON
+1200000,House,1351,4,Chiswick,WEST LONDON
+850000,House,1177,3,Barnes,CENTRAL LONDON
+1599950,House,1884,4,Fulham,CENTRAL LONDON
+9975000,House,10100,10, Battersea,CENTRAL LONDON
+1999999,Flat / Apartment,1608,3, Victoria,CENTRAL LONDON
+725000,House,884,3,South Hackney,EAST LONDON
+1750000,Flat / Apartment,1232,2,Grove End Road,NORTH WEST LONDON
+1250000,New development,1307,3,Crouch End,NORTH LONDON
+3350000,Penthouse,2185,3,Coleridge Gardens,CENTRAL LONDON
+1000000,Flat / Apartment,1228,3,Battersea,CENTRAL LONDON
+2350000,House,2511,4,Barnes,CENTRAL LONDON
+2095000,Flat / Apartment,1528,3,Chelsea Harbour,CENTRAL LONDON
+1250000,Flat / Apartment,811,2, Bayswater,CENTRAL LONDON
+875000,House,1132,4,Tooting,CENTRAL LONDON
+820000,House,974,3,Morgan Street,EAST LONDON
+830000,Flat / Apartment,850,2,Regent's Park,NORTH WEST LONDON
+500000,Flat / Apartment,458,1,Kentish Town,NORTH WEST LONDON
+7500000,House,3851,6,St John's Wood,NORTH WEST LONDON
+749950,Flat / Apartment,1382,3,Putney,CENTRAL LONDON
+3500000,House,1763,4,Marylebone,CENTRAL LONDON
+2100000,Flat / Apartment,1208,3,Marylebone,CENTRAL LONDON
+650000,New development,1023,2, Ealing,WEST LONDON
+625000,House,1348,4,Kidbrooke,SOUTH EAST LONDON
+625000,Flat / Apartment,540,1,Clerkenwell,CITY OF LONDON
+1100000,New development,791,2,Westminster,CENTRAL LONDON
+1500000,House,1811,4,Hackney,EAST LONDON
+799995,Flat / Apartment,942,3, Canary Wharf,EAST LONDON
+2595000,House,2120,5,Fulham,CENTRAL LONDON
+820000,Flat / Apartment,631,2, Westminster,CENTRAL LONDON
+2300000,House,2083,5,Barnes,CENTRAL LONDON
+4000000,House,3714,5,Barnes,CENTRAL LONDON
+1275000,Flat / Apartment,1185,3,Little Venice,CENTRAL LONDON
+1750000,House,2125,4,Hampstead,NORTH WEST LONDON
+2600000,House,2350,4,Hampstead,NORTH WEST LONDON
+3450000,House,2354,4, Hampstead,NORTH WEST LONDON
+2375000,Flat / Apartment,1218,2,St. James's,CENTRAL LONDON
+1995000,House,1841,5,Wimbledon,CENTRAL LONDON
+1000000,House,1154,4,South Hackney,EAST LONDON
+3500000,Flat / Apartment,1770,2,410 Strand,CENTRAL LONDON
+850000,Flat / Apartment,773,2,Barnsbury,NORTH LONDON
+575000,Flat / Apartment,773,2,Chiswick,WEST LONDON
+1575000,Flat / Apartment,1580,3,Prince of Wales Drive,CENTRAL LONDON
+4750000,House,6602,6,Wimbledon,CENTRAL LONDON
+1175000,House,1909,4,Putney,CENTRAL LONDON
+1700000,House,2374,5,Wandsworth,CENTRAL LONDON
+1000000,House,2125,2,131 Ladbroke Grove,CENTRAL LONDON
+1635000,New development,903,2, City Of London,CITY OF LONDON
+2400000,Flat / Apartment,1736,4, Bayswater,CENTRAL LONDON
+1200000,New development,590,1, South Bank,SOUTH EAST LONDON
+2300000,House,1912,3, Fulham,CENTRAL LONDON
+1300000,Flat / Apartment,1465,3,Woodstock Road,WEST LONDON
+1750000,House,1580,4,Fulham,CENTRAL LONDON
+1395000,House,1902,5,Putney,CENTRAL LONDON
+1385000,Flat / Apartment,2056,3, Putney,CENTRAL LONDON
+3695000,House,2316,4,St James's,CENTRAL LONDON
+3100000,Flat / Apartment,2470,4,Holland Park,CENTRAL LONDON
+5500000,House,3674,4,Islington,NORTH LONDON
+925000,Flat / Apartment,1012,3, Highbury,NORTH LONDON
+550000,Penthouse,414,1, Hackney,EAST LONDON
+260000,Studio,381,0,Hackney,EAST LONDON
+550000,Flat / Apartment,547,1,Hertford Road,NORTH LONDON
+2400000,House,2202,5,Hampstead,NORTH WEST LONDON
+580000,New development,460,1, Wandsworth,CENTRAL LONDON
+2300000,House,2785,5,Fulham,CENTRAL LONDON
+400000,Flat / Apartment,774,2,20 Love Lane,SOUTH EAST LONDON
+415000,Flat / Apartment,525,1, Canary Wharf,EAST LONDON
+1395000,Penthouse,1230,2,2 Dallington Street,CITY OF LONDON
+2800000,House,2734,6, Chiswick,WEST LONDON
+1195000,Flat / Apartment,872,2,Chelsea,CENTRAL LONDON
+2750000,Flat / Apartment,1839,4,Drayton Gardens,CENTRAL LONDON
+6950000,House,5501,6,Hammersmith,WEST LONDON
+2750000,House,2675,4,Battersea,CENTRAL LONDON
+525000,Flat / Apartment,514,2,Wimbledon,CENTRAL LONDON
+3750000,House,3256,3,Marylebone,CENTRAL LONDON
+750000,Flat / Apartment,604,1, Chelsea,CENTRAL LONDON
+650000,Flat / Apartment,584,1, Clerkenwell,CITY OF LONDON
+1295000,House,1356,4,Chiswick,WEST LONDON
+765000,Flat / Apartment,1362,3, Fulham,CENTRAL LONDON
+1100000,House,1420,3,Barnes,CENTRAL LONDON
+2350000,House,2153,4,Barnes,CENTRAL LONDON
+965000,House,1222,4,Tooting Bec,CENTRAL LONDON
+1750000,Flat / Apartment,732,1, Holland Park,CENTRAL LONDON
+475000,Flat / Apartment,525,1,105 Maida Vale,CENTRAL LONDON
+752500,New development,874,2,131-143 Belsize Road,NORTH WEST LONDON
+2995000,House,3406,5,Between The Commons,SOUTH WEST LONDON
+550000,Flat / Apartment,609,2,137-139 Queenstown Road,SOUTH WEST LONDON
+625000,Flat / Apartment,428,1, Westminster,CENTRAL LONDON
+2290000,Flat / Apartment,1604,2,St. James's,CENTRAL LONDON
+3450000,House,1820,5,Chelsea,CENTRAL LONDON
+995000,Flat / Apartment,710,2,Primrose Hill,NORTH WEST LONDON
+450000,New development,538,1, Holloway,NORTH LONDON
+850000,Flat / Apartment,935,2,Chiswick,WEST LONDON
+975000,Flat / Apartment,950,2, Maida Vale,CENTRAL LONDON
+940000,House,1074,3,Hackney,EAST LONDON
+1695000,House,1944,5,Highbury,NORTH LONDON
+399995,Flat / Apartment,472,1, Canary Wharf,EAST LONDON
+5750000,House,4682,6,Barnes,CENTRAL LONDON
+4650000,House,2865,4,Belgravia,CENTRAL LONDON
+2650000,Flat / Apartment,1811,3, Parr's Way,WEST LONDON
+525000,Flat / Apartment,775,1,142 Battersea Park Road,CENTRAL LONDON
+1650000,Flat / Apartment,1099,2,Westminster,CENTRAL LONDON
+850000,Flat / Apartment,726,2,Albany Street,NORTH WEST LONDON
+2700000,House,1791,3,Notting Hill,CENTRAL LONDON
+695000,House,795,2,Wimbledon,CENTRAL LONDON
+2050000,House,1293,3,St John's Wood,NORTH WEST LONDON
+615000,Flat / Apartment,972,2,Whitechapel,EAST LONDON
+1000000,Flat / Apartment,1777,3, Putney,CENTRAL LONDON
+1850000,New development,1328,3,2 Gatliff Road,CENTRAL LONDON
+450000,Flat / Apartment,459,1,Bingham Court,NORTH LONDON
+1395000,House,1068,1,Chiswick,WEST LONDON
+725000,Flat / Apartment,858,3,42 Trinity Church Road,CENTRAL LONDON
+2000000,House,2525,4,Barnes,CENTRAL LONDON
+1350000,House,1328,3,Brackenbury Village,WEST LONDON
+2100000,House,2191,4,Battersea,CENTRAL LONDON
+1500000,Flat / Apartment,1132,3,Albert Bridge Road,CENTRAL LONDON
+3625000,House,2190,4,Primrose Hill,NORTH WEST LONDON
+1500000,Flat / Apartment,1274,2,Mill Street,SOUTH EAST LONDON
+525000,Flat / Apartment,630,2,Barnes,CENTRAL LONDON
+290000,Flat / Apartment,455,1,Banbury Road,EAST LONDON
+1725000,House,2931,5,Putney,CENTRAL LONDON
+1395000,House,1510,3,Islington,NORTH LONDON
+1795000,House,2067,4, Putney,CENTRAL LONDON
+1500000,House,1997,4,Ealing,CENTRAL LONDON
+1600000,House,2149,4,Wandsworth,CENTRAL LONDON
+1325000,Flat / Apartment,1195,3, Westminster,CENTRAL LONDON
+1395000,House,1587,3,Camden,NORTH WEST LONDON
+679000,Flat / Apartment,832,2, Canary Wharf,EAST LONDON
+1500000,Flat / Apartment,1244,3,Park Walk,CENTRAL LONDON
+4995000,House,3035,4,Little Venice,CENTRAL LONDON
+1350000,House,1604,4,Putney,CENTRAL LONDON
+600000,Flat / Apartment,660,2,Hackney,NORTH LONDON
+875000,Flat / Apartment,627,1,28 Wapping High Street,EAST LONDON
+565000,Flat / Apartment,872,2,Canary Wharf,EAST LONDON
+1250000,Flat / Apartment,1201,2,48 Rigault Road,CENTRAL LONDON
+1800000,Flat / Apartment,1453,3,Prince of Wales Drive,CENTRAL LONDON
+1495000,New development,1781,4,New Road,NORTH LONDON
+1050000,Flat / Apartment,1831,3,Wimbledon,CENTRAL LONDON
+1850000,House,2503,5,Wimbledon,CENTRAL LONDON
+2100000,House,2438,5,Barnes,CENTRAL LONDON
+2250000,House,2600,5,Barnes,CENTRAL LONDON
+1375000,House,1884,4,Wimbledon,SOUTH WEST LONDON
+1400000,House,2138,5,Wandsworth,CENTRAL LONDON
+635000,Flat / Apartment,927,2,Putney,CENTRAL LONDON
+449950,Flat / Apartment,526,2,South Hackney,EAST LONDON
+425000,Flat / Apartment,474,1,Shannon Place,NORTH WEST LONDON
+1795000,House,1902,3,Putney,CENTRAL LONDON
+1600000,Flat / Apartment,801,2,Primrose Hill,NORTH WEST LONDON
+1750000,Flat / Apartment,1002,3,Kensington Park Gardens,CENTRAL LONDON
+1900000,House,1703,5,Islington,NORTH LONDON
+675000,Flat / Apartment,792,1,23 Wenlock Road,NORTH LONDON
+1500000,New development,1273,3, Hackney,EAST LONDON
+620000,New development,786,2, Holloway,NORTH LONDON
+650000,Flat / Apartment,747,2,De Beauvoir,NORTH LONDON
+500000,Flat / Apartment,663,1,Knighten Street,EAST LONDON
+765000,New development,841,2,Carlton Drive,CENTRAL LONDON
+1600000,House,1854,4,Barnes,CENTRAL LONDON
+1699999,House,2119,5,Battersea,CENTRAL LONDON
+950000,Flat / Apartment,1294,4,Battersea,CENTRAL LONDON
+2150000,House,1582,3,Paddington,CENTRAL LONDON
+2950000,Penthouse,1840,2,St James's,CENTRAL LONDON
+1500000,House,1115,3,Fulham,CENTRAL LONDON
+650000,Flat / Apartment,882,2,Asher Way,EAST LONDON
+1575000,House,1983,4,Barnes,CENTRAL LONDON
+525000,Flat / Apartment,707,2,Battersea,CENTRAL LONDON
+775000,Flat / Apartment,967,2,South Hackney,EAST LONDON
+3250000,House,2210,3,Putney,CENTRAL LONDON
+3250000,House,2543,5,Hampstead,NORTH WEST LONDON
+700000,Flat / Apartment,797,2,59 Lurline Gardens,CENTRAL LONDON
+525000,Flat / Apartment,540,1,Putney,CENTRAL LONDON
+2450000,House,3007,6,Wimbledon,SOUTH WEST LONDON
+550000,House,538,2,Wimbledon,CENTRAL LONDON
+3950000,House,6186,6,Wimbledon,CENTRAL LONDON
+1450000,House,1984,5, Wandsworth,CENTRAL LONDON
+5750000,House,2896,3,Belgravia,CENTRAL LONDON
+180000,Flat / Apartment,745,2, Bow,EAST LONDON
+210000,Studio,328,0, Putney,CENTRAL LONDON
+18000000,House,8315,7,Mayfair,CENTRAL LONDON
+2850000,House,2857,5,Islington,NORTH LONDON
+1150000,Flat / Apartment,1074,3,Islington,NORTH LONDON
+550000,Penthouse,414,1, Hackney,EAST LONDON
+690000,New development,596,1, Hackney,EAST LONDON
+995000,Flat / Apartment,999,2,Fortune Green,NORTH WEST LONDON
+1000000,Penthouse,962,2,Putney,CENTRAL LONDON
+1295000,House,1813,4,East Sheen,CENTRAL LONDON
+1280000,Flat / Apartment,1169,2,Star Place,EAST LONDON
+1425000,House,2028,4, Chiswick,WEST LONDON
+1795000,House,1720,4,Barnes,CENTRAL LONDON
+1125000,House,1423,4,Battersea,CENTRAL LONDON
+945000,Flat / Apartment,1001,2,110 Battersea Park Road,CENTRAL LONDON
+3150000,House,2809,5,Battersea,CENTRAL LONDON
+699950,Flat / Apartment,920,2,Highbury,NORTH LONDON
+1275000,House,1420,4,Chiswick,WEST LONDON
+460000,Flat / Apartment,431,1,Abbey Road,NORTH WEST LONDON
+6795000,House,4637,6,St John's Wood,NORTH WEST LONDON
+1695000,House,2096,4,Putney,CENTRAL LONDON
+900000,Flat / Apartment,769,2,Grays Inn,CENTRAL LONDON
+1200000,Flat / Apartment,1155,3, Barnes,CENTRAL LONDON
+1100000,House,1607,4,South Hackney,EAST LONDON
+650000,New development,646,2,Kingsland Road,EAST LONDON
+2950000,House,3716,5,East Sheen,CENTRAL LONDON
+2450000,House,2313,4, Fulham,CENTRAL LONDON
+625000,Flat / Apartment,652,2, St John's Wood,NORTH WEST LONDON
+295000,Studio,344,0,Regent's Park,NORTH WEST LONDON
+2350000,House,1519,4,St John's Wood,NORTH WEST LONDON
+1999995,House,1935,5,Shoreditch,EAST LONDON
+499000,Flat / Apartment,451,1,Camden,NORTH WEST LONDON
+6450000,House,3336,5,Belgravia,CENTRAL LONDON
+475000,New development,560,1,3 City North Place,NORTH LONDON
+560000,New development,657,2, Holloway,NORTH LONDON
+610000,New development,758,2, Holloway,NORTH LONDON
+600000,New development,758,2, Holloway,NORTH LONDON
+600000,Flat / Apartment,658,1,St. Peters Square,WEST LONDON
+650000,Flat / Apartment,848,2, Battersea,CENTRAL LONDON
+1795000,House,1824,5,Kentish Town,NORTH WEST LONDON
+825000,Flat / Apartment,843,2,Fulham,CENTRAL LONDON
+2350000,Flat / Apartment,2577,3,Old Street,NORTH LONDON
+1200000,Flat / Apartment,932,2, Belsize Park,NORTH WEST LONDON
+450000,Flat / Apartment,600,2,330 Garratt Lane,CENTRAL LONDON
+3450000,House,3070,5,Fulham,CENTRAL LONDON
+995000,Flat / Apartment,908,2,Pimlico,CENTRAL LONDON
+795000,Flat / Apartment,1536,3,Wimbledon,CENTRAL LONDON
+1775000,House,2336,5,Wimbledon,CENTRAL LONDON
+549950,Flat / Apartment,730,1,Putney,CENTRAL LONDON
+2600000,Flat / Apartment,1779,3,Little Venice,CENTRAL LONDON
+3950000,House,1917,1,Knightsbridge,CENTRAL LONDON
+1350000,House,1629,4,Highbury,NORTH LONDON
+2750000,House,2500,5,Islington,NORTH LONDON
+799950,Flat / Apartment,770,2,Hampstead,NORTH WEST LONDON
+2895000,House,2730,5, Fulham,CENTRAL LONDON
+799950,Flat / Apartment,940,3,Queens Club Gardens,CENTRAL LONDON
+2250000,House,2949,6,Fulham,CENTRAL LONDON
+2020000,New development,1262,3, Earls Court,CENTRAL LONDON
+975000,House,1308,4,Tooting,CENTRAL LONDON
+850000,Flat / Apartment,978,3, Clerkenwell,CITY OF LONDON
+2400000,House,2411,4,Highgate,NORTH LONDON
+475000,Flat / Apartment,496,1, Greenwich,SOUTH EAST LONDON
+1200000,House,1934,4,Putney,CENTRAL LONDON
+3250000,House,4370,6,Wimbledon,CENTRAL LONDON
+2375000,House,2153,3,Islington,NORTH LONDON
+650000,Flat / Apartment,595,2,Shannon Place,NORTH WEST LONDON
+1295000,House,876,4,Putney,CENTRAL LONDON
+1000000,House,905,2,Putney,CENTRAL LONDON
+1885000,Flat / Apartment,1675,4,Prince of Wales Drive,CENTRAL LONDON
+3495000,New development,4420,6, Wimbledon,SOUTH WEST LONDON
+1200000,House,1378,3, Wandsworth,CENTRAL LONDON
+1200000,House,1751,4, Wandsworth,CENTRAL LONDON
+1600000,House,2330,5,Wandsworth,CENTRAL LONDON
+799000,House,1214,3,Putney,CENTRAL LONDON
+850000,Flat / Apartment,876,2,Putney,CENTRAL LONDON
+2500000,House,1323,3,Marylebone,CENTRAL LONDON
+3950000,House,2547,4,Hyde Park,CENTRAL LONDON
+420000,New development,538,1, Holloway,NORTH LONDON
+424995,Flat / Apartment,422,1,Hackney,EAST LONDON
+2150000,Flat / Apartment,2074,4,East Heath Road,NORTH WEST LONDON
+1500000,House,1645,3,Fulham,CENTRAL LONDON
+550000,Flat / Apartment,600,1, Canary Wharf,EAST LONDON
+475000,Flat / Apartment,381,1,Clerkenwell,CENTRAL LONDON
+595000,Flat / Apartment,791,2,Edith Terrace,CENTRAL LONDON
+2250000,House,2937,6,Barnes,CENTRAL LONDON
+900000,Flat / Apartment,1218,3,Battersea,CENTRAL LONDON
+1990000,Flat / Apartment,1560,2,St. James's,CENTRAL LONDON
+1195000,House,1464,3,Wimbledon,CENTRAL LONDON
+325000,Flat / Apartment,339,1,Victoria Park,EAST LONDON
+850000,Flat / Apartment,1456,2, Putney,CENTRAL LONDON
+879000,New development,1004,2, Putney,CENTRAL LONDON
+575000,Flat / Apartment,695,2,Nightingale Lane,CENTRAL LONDON
+4100000,Flat / Apartment,1496,2,Mayfair,CENTRAL LONDON
+1800000,House,1919,3,Islington,NORTH LONDON
+649950,Flat / Apartment,804,2,52 Holloway Road,NORTH LONDON
+899950,Flat / Apartment,1143,2,West Hampstead,NORTH WEST LONDON
+1595000,Flat / Apartment,1170,2,Kensington,CENTRAL LONDON
+499000,New development,690,2,Mayflower Street,SOUTH EAST LONDON
+3410000,Penthouse,2852,4,Riverside Quarter,CENTRAL LONDON
+1650000,House,1756,4,Fulham,CENTRAL LONDON
+1225000,House,1806,4,Fulham,WEST LONDON
+1095000,House,950,2,Wimbledon,CENTRAL LONDON
+550000,Flat / Apartment,904,2, Wimbledon,SOUTH WEST LONDON
+1500000,House,2583,5, Wandsworth,CENTRAL LONDON
+750000,Flat / Apartment,911,2, Wandsworth,CENTRAL LONDON
+1150000,House,1822,5, Wandsworth,CENTRAL LONDON
+665000,Flat / Apartment,647,2,Shannon Place,NORTH WEST LONDON
+1250000,Flat / Apartment,1036,2,St. John's Wood,NORTH WEST LONDON
+600000,Flat / Apartment,632,2,70 Webb's Road,CENTRAL LONDON
+2450000,House,3020,6,Clapham,CENTRAL LONDON
+895000,New development,1033,3,Islington,NORTH LONDON
+1000000,Flat / Apartment,884,1, Hampstead,NORTH WEST LONDON
+2300000,House,2124,4,Fulham,CENTRAL LONDON
+375000,Flat / Apartment,444,1,Ealing,WEST LONDON
+985000,Flat / Apartment,1140,2,Thirleby Road,CENTRAL LONDON
+995000,House,1993,5,Wandsworth,CENTRAL LONDON
+550000,Flat / Apartment,666,2, Shoreditch,EAST LONDON
+7300000,Flat / Apartment,2230,3,Belgravia,CENTRAL LONDON
+1250000,Flat / Apartment,885,2,Primrose Hill,NORTH WEST LONDON
+3750000,House,2396,4,Hyde Park Estate,CENTRAL LONDON
+430000,Studio,514,1,Clapham Common North Side,SOUTH WEST LONDON
+830000,Flat / Apartment,891,2,Clapham Common North Side,SOUTH WEST LONDON
+1100000,Flat / Apartment,635,1,Fitzrovia,CENTRAL LONDON
+3100000,New development,1410,3,Covent Garden,CENTRAL LONDON
+2650000,House,3319,6,Highbury,NORTH LONDON
+450000,Flat / Apartment,569,2,Hurlock Street,NORTH LONDON
+650000,Flat / Apartment,720,2,Hackney,EAST LONDON
+799950,Flat / Apartment,956,2, West Hampstead,NORTH WEST LONDON
+1250000,Penthouse,1209,2, Fulham,CENTRAL LONDON
+775000,Flat / Apartment,810,1,Clerkenwell,CITY OF LONDON
+800000,House,1080,3,Acton,WEST LONDON
+1850000,House,1735,4,Barnes,CENTRAL LONDON
+1500000,House,1108,3,Barnes,CENTRAL LONDON
+750000,Flat / Apartment,686,1, Battersea,CENTRAL LONDON
+1985000,Flat / Apartment,1492,3, Battersea,CENTRAL LONDON
+1100000,Flat / Apartment,1125,2,St. John's Wood,NORTH WEST LONDON
+650000,Flat / Apartment,674,2,Clerkenwell,CITY OF LONDON
+4500000,House,2145,3,Belgravia,CENTRAL LONDON
+4750000,New development,2552,4,Notting Hill,CENTRAL LONDON
+2150000,House,2172,3,Highgate,NORTH LONDON
+695000,Flat / Apartment,964,2,Ealing,WEST LONDON
+1100000,Flat / Apartment,816,2,Star Place,EAST LONDON
+649999,New development,569,1,211-227 Hackney Road,EAST LONDON
+1500000,House,1868,5,Chiswick,WEST LONDON
+725000,House,960,3,Hartington Road,WEST LONDON
+400000,Flat / Apartment,491,1,South Hackney,EAST LONDON
+4750000,House,2157,4,Belgravia,CENTRAL LONDON
+925000,Flat / Apartment,931,2,Islington,NORTH LONDON
+1800000,House,1776,5,Fulham,CENTRAL LONDON
+2950000,House,3144,6,Fulham,CENTRAL LONDON
+795000,New development,825,2, Fulham,CENTRAL LONDON
+795000,Flat / Apartment,798,2, Imperial Wharf,CENTRAL LONDON
+499999,Flat / Apartment,452,1, Longfield Avenue,WEST LONDON
+398000,New development,461,1,Ashton Reach,SOUTH EAST LONDON
+1150000,House,1259,3,Barnes,CENTRAL LONDON
+655000,Flat / Apartment,703,2,Clerkenwell,CITY OF LONDON
+375000,Flat / Apartment,482,1,Hoxton,NORTH LONDON
+2395000,House,2221,4,Primrose Hill,NORTH WEST LONDON
+1750000,Flat / Apartment,2203,3,Fitzrovia,CENTRAL LONDON
+2100000,House,2137,5,Barnes,CENTRAL LONDON
+775000,House,1414,4,Battersea,CENTRAL LONDON
+1575000,House,2379,5,Wandsworth,CENTRAL LONDON
+650000,Flat / Apartment,1091,3,27 Frampton Park Road,EAST LONDON
+8750000,New development,2755,3,6 Campden Hill,CENTRAL LONDON
+699999,New development,878,2,5 Danvers Avenue,CENTRAL LONDON
+1750000,House,2540,5,East Sheen,CENTRAL LONDON
+1380000,House,1737,5,Chiswick,WEST LONDON
+5500000,House,4666,7,Barnes,CENTRAL LONDON
+3050000,House,3717,5,Wimbledon,CENTRAL LONDON
+2350000,House,3594,5,Wimbledon,CENTRAL LONDON
+5250000,Flat / Apartment,2026,3,Knightsbridge,CENTRAL LONDON
+3375000,Flat / Apartment,913,2,Knightsbridge,CENTRAL LONDON
+1700000,Flat / Apartment,1138,3,13-15 St. Petersburgh Place,CENTRAL LONDON
+4650000,Penthouse,2231,4,Mayfair,CENTRAL LONDON
+2100000,Flat / Apartment,1074,2, Mayfair,CENTRAL LONDON
+390000,New development,506,1,2  City North Place,NORTH LONDON
+2000000,Flat / Apartment,1997,4,Earl's Court,CENTRAL LONDON
+4250000,House,4774,7,Wandsworth,CENTRAL LONDON
+985000,Flat / Apartment,1295,3,Putney,CENTRAL LONDON
+1500000,Flat / Apartment,1275,3,Pimlico,CENTRAL LONDON
+950000,House,1357,3,Wimbledon,CENTRAL LONDON
+699950,Flat / Apartment,786,2, Wimbledon,CENTRAL LONDON
+725000,Flat / Apartment,1134,2,Wandsworth,CENTRAL LONDON
+465000,Flat / Apartment,473,1,Shannon Place,NORTH WEST LONDON
+500000,Flat / Apartment,451,1,Abbey Road,NORTH WEST LONDON
+5750000,Flat / Apartment,2524,3,Knightsbridge,CENTRAL LONDON
+5450000,Flat / Apartment,1650,2,60 Brompton Road,CENTRAL LONDON
+775000,Flat / Apartment,820,2,Putney,CENTRAL LONDON
+699950,Penthouse,907,2, Putney,CENTRAL LONDON
+249999,Flat / Apartment,458,1,Streatham Hill,SOUTH WEST LONDON
+3300000,House,3448,4,Little Venice,CENTRAL LONDON
+1600000,Flat / Apartment,1402,2,Fitzrovia,CENTRAL LONDON
+1790000,Penthouse,890,2, Fitzrovia,CENTRAL LONDON
+4950000,Flat / Apartment,2817,6, Marylebone,CENTRAL LONDON
+2650000,Flat / Apartment,1027,2,Mayfair,CENTRAL LONDON
+990000,New development,820,2,82-88 Fulham High Street,CENTRAL LONDON
+1650000,New development,1259,3, Smithfield Market,CITY OF LONDON
+765000,New development,618,1,10 Gatliff Road,CENTRAL LONDON
+1100000,Flat / Apartment,1095,2, Shoreditch,NORTH LONDON
+474950,Flat / Apartment,540,1,Hackney,EAST LONDON
+2450000,Penthouse,1879,3,Hampstead,NORTH WEST LONDON
+650000,Flat / Apartment,668,1, Hampstead,NORTH WEST LONDON
+1000000,Penthouse,1539,2,4 Woodland Crescent,SOUTH EAST LONDON
+1250000,Flat / Apartment,1085,2, Clerkenwell,CITY OF LONDON
+1100000,House,1112,3,Chiswick,WEST LONDON
+1200000,House,1517,4,Chiswick,WEST LONDON
+4000000,House,5108,5,Barnes,CENTRAL LONDON
+1250000,House,1952,3, Barnes,CENTRAL LONDON
+699950,Flat / Apartment,816,2,Prince of Wales Drive,CENTRAL LONDON
+585000,Flat / Apartment,552,1,Prince of Wales Drive,CENTRAL LONDON
+800000,House,1148,3,Battersea,CENTRAL LONDON
+1450000,House,2131,4,Wandsworth,CENTRAL LONDON
+2000000,House,2518,5,Wandsworth,CENTRAL LONDON
+995000,Flat / Apartment,814,2,St John's Wood,NORTH WEST LONDON
+3250000,Flat / Apartment,917,2,Piccadilly,CENTRAL LONDON
+875000,Flat / Apartment,570,2,Marylebone,CENTRAL LONDON
+750000,Flat / Apartment,633,2,Marylebone,CENTRAL LONDON
+7500000,House,2693,4,South Kensington,CENTRAL LONDON
+5950000,Penthouse,3002,4,Stanford Road,CENTRAL LONDON
+7600000,New development,2238,3, Kensington,CENTRAL LONDON
+565000,New development,739,2,3 City North Place,NORTH LONDON
+1435000,House,1341,3,Islington,NORTH LONDON
+485000,Flat / Apartment,822,2,De Beauvoir,NORTH LONDON
+545000,New development,691,1, Battersea,CENTRAL LONDON
+640000,New development,691,2, Battersea,CENTRAL LONDON
+545000,New development,577,1, Battersea,CENTRAL LONDON
+1850000,Penthouse,2120,3,Putney,CENTRAL LONDON
+1460000,New development,1399,3,Putney,CENTRAL LONDON
+2200000,House,2266,5,Barnes,CENTRAL LONDON
+3550000,Flat / Apartment,1862,3,Vauxhall,SOUTH WEST LONDON
+1195000,House,1271,3,Wimbledon,CENTRAL LONDON
+1995000,House,2620,5,Wimbledon,SOUTH WEST LONDON
+1585000,House,1712,4,Wimbledon,CENTRAL LONDON
+2695000,House,3924,6,Wimbledon,SOUTH WEST LONDON
+2990000,House,3067,6,Wimbledon,CENTRAL LONDON
+1875000,House,2422,5,Wandsworth,CENTRAL LONDON
+650000,Flat / Apartment,623,2,Shannon Place,NORTH WEST LONDON
+559000,Flat / Apartment,513,1, Aldgate,EAST LONDON
+2000000,Flat / Apartment,1520,2,Belgravia,CENTRAL LONDON
+425000,Flat / Apartment,592,1, Putney,CENTRAL LONDON
+2200000,Flat / Apartment,1163,3,Marylebone,CENTRAL LONDON
+1750000,House,1224,3,Marylebone,CENTRAL LONDON
+3500000,House,2216,4,Islington,NORTH LONDON
+1850000,Flat / Apartment,1623,4,Islington,NORTH LONDON
+2295000,Flat / Apartment,2039,3,Hampstead,NORTH WEST LONDON
+925000,Flat / Apartment,730,1,Hampstead,NORTH WEST LONDON
+1418000,New development,1335,3, Canary Wharf,EAST LONDON
+1300000,House,1685,4,Chiswick,WEST LONDON
+2400000,House,2425,5,Barnes,CENTRAL LONDON
+825000,Flat / Apartment,853,3, Fulham,CENTRAL LONDON
+635000,Flat / Apartment,634,2,Hammersmith,WEST LONDON
+699950,House,883,2,Wimbledon,CENTRAL LONDON
+725000,New development,784,2, Putney,CENTRAL LONDON
+1350000,Flat / Apartment,628,1,Notting Hill,CENTRAL LONDON
+650000,New development,560,1,82-88 Fulham High Street,CENTRAL LONDON
+750000,Flat / Apartment,599,1,Chelsea,CENTRAL LONDON
+825000,Penthouse,1226,2,158 Northchurch Road,NORTH LONDON
+350000,Studio,425,0,Ealing,WEST LONDON
+765000,Flat / Apartment,1025,4,Marius Road,CENTRAL LONDON
+2950000,Penthouse,3451,5,Limehouse,EAST LONDON
+999950,Flat / Apartment,792,2,Finsbury,CITY OF LONDON
+1200000,House,1710,4, Chiswick,WEST LONDON
+1250000,House,1395,4,Chiswick,WEST LONDON
+1495000,House,1889,4,Chiswick,WEST LONDON
+1950000,House,2150,4,Barnes,CENTRAL LONDON
+785000,New development,590,1,101 Wood Lane,CENTRAL LONDON
+2250000,Flat / Apartment,1641,3, Battersea,CENTRAL LONDON
+6450000,Flat / Apartment,3578,2, Westminster,CENTRAL LONDON
+749950,Flat / Apartment,1059,2, Wimbledon,CENTRAL LONDON
+1975000,Penthouse,2458,2,226 Arlington Road,NORTH WEST LONDON
+3550000,House,1986,5,Chelsea,CENTRAL LONDON
+350000,Flat / Apartment,539,1,Balham High Road,CENTRAL LONDON
+4600000,New development,1961,3,Fitzrovia,CENTRAL LONDON
+1325000,New development,824,2,9 Gatliff Road,CENTRAL LONDON
+5250000,House,3782,8,Belsize Park,NORTH WEST LONDON
+1000000,House,1549,4,Ealing,WEST LONDON
+1200000,House,1760,4,East Sheen,CENTRAL LONDON
+1200000,House,1615,4,Chiswick,WEST LONDON
+3295000,House,3230,5, Chiswick,WEST LONDON
+1215000,New development,1091,3, Putney,CENTRAL LONDON
+2275000,House,2652,5,Barnes,CENTRAL LONDON
+400000,Flat / Apartment,601,2, Barnes,CENTRAL LONDON
+800000,Flat / Apartment,1143,3, Battersea,CENTRAL LONDON
+700000,Flat / Apartment,940,2,Battersea,SOUTH WEST LONDON
+500000,Flat / Apartment,561,1,Clerkenwell,CITY OF LONDON
+3975000,House,1726,3,Knightsbridge,CENTRAL LONDON
+1099000,House,1554,4, Putney,CENTRAL LONDON
+539950,Flat / Apartment,627,2,Weimar Street,CENTRAL LONDON
+950000,Flat / Apartment,922,3, Maida Vale,CENTRAL LONDON
+1200000,Flat / Apartment,1218,3,Hampstead,NORTH WEST LONDON
+380000,Flat / Apartment,550,1,42 White Horse Lane,EAST LONDON
+490000,Flat / Apartment,771,2, Canary Wharf,EAST LONDON
+2750000,House,2612,6,Barnes,CENTRAL LONDON
+450000,Flat / Apartment,460,1, St John's Wood,NORTH WEST LONDON
+825000,House,1224,3,Putney,CENTRAL LONDON
+1695000,House,2205,4,Putney,CENTRAL LONDON
+425000,Flat / Apartment,548,1,Putney,CENTRAL LONDON
+1250000,Flat / Apartment,896,2,Primrose Hill,NORTH WEST LONDON
+785000,New development,1263,2, Mill Hill,NORTH WEST LONDON
+465000,Flat / Apartment,518,1,Hackney,EAST LONDON
+1350000,Flat / Apartment,1023,2,Belsize Park,NORTH WEST LONDON
+2500000,House,2458,5,Fulham,CENTRAL LONDON
+945000,House,1112,3,East Sheen,CENTRAL LONDON
+725000,Flat / Apartment,861,2, Limehouse,EAST LONDON
+325000,Flat / Apartment,469,1, Canary Wharf,EAST LONDON
+800000,Flat / Apartment,742,2,Finsbury,CITY OF LONDON
+595000,New development,476,1,Farringdon,CITY OF LONDON
+425000,Flat / Apartment,740,2,Grove Park,WEST LONDON
+1250000,House,1380,3,Barnes,CENTRAL LONDON
+2100000,House,1959,5,Barnes,CENTRAL LONDON
+875000,House,869,2,Battersea,CENTRAL LONDON
+1095000,House,1238,3,Battersea,CENTRAL LONDON
+1495000,Penthouse,1680,4,Battersea,CENTRAL LONDON
+895000,Flat / Apartment,1221,3, Wimbledon,CENTRAL LONDON
+3500000,Flat / Apartment,1548,3,Belgravia,CENTRAL LONDON
+4750000,Flat / Apartment,1559,2, Knightsbridge,CENTRAL LONDON
+550000,Flat / Apartment,690,2,Macaulay Road,SOUTH WEST LONDON
+4035000,New development,2174,4, Chelsea,CENTRAL LONDON
+1150000,Flat / Apartment,933,2,50 Kensington Place,CENTRAL LONDON
+1300000,House,1457,4,Battersea,CENTRAL LONDON
+2950000,House,2349,5,Westminster,CENTRAL LONDON
+995000,House,1184,3,Wimbledon,CENTRAL LONDON
+700000,Flat / Apartment,814,2, Battersea,CENTRAL LONDON
+1675000,House,1749,4,South Hackney,EAST LONDON
+635000,Flat / Apartment,774,2,Putney,CENTRAL LONDON
+1995000,House,3256,5,Putney,CENTRAL LONDON
+1895000,House,1868,3,Islington,NORTH LONDON
+825000,Flat / Apartment,1026,3, Canary Wharf,EAST LONDON
+875000,Flat / Apartment,767,2,Clerkenwell,CITY OF LONDON
+2175000,House,2108,5,Barnes,CENTRAL LONDON
+2250000,House,2332,5,Barnes,CENTRAL LONDON
+975000,Flat / Apartment,1100,2,Battersea,CENTRAL LONDON
+1735000,House,2144,4,Battersea,CENTRAL LONDON
+1375000,House,1335,3, Wimbledon,CENTRAL LONDON
+875000,Flat / Apartment,693,2,Grove End Road,NORTH WEST LONDON
+1950000,House,1873,5, South Hampstead,NORTH WEST LONDON
+2150000,Flat / Apartment,1672,3, Marylebone,CENTRAL LONDON
+800000,Flat / Apartment,548,2, Marylebone,CENTRAL LONDON
+1750000,Flat / Apartment,883,2, Fitzrovia,CENTRAL LONDON
+1178000,New development,847,2, Battersea,CENTRAL LONDON
+1895000,House,2132,5,Highbury,NORTH LONDON
+1200000,Flat / Apartment,1355,2,29 Laycock Street,NORTH LONDON
+725000,House,804,1,Hackney,EAST LONDON
+1100000,House,1069,2,Hampstead,NORTH WEST LONDON
+600000,New development,870,1, Ealing,WEST LONDON
+1295000,House,1674,4,Balham,CENTRAL LONDON
+600000,House,570,2,Wimbledon,CENTRAL LONDON
+895000,House,900,3,Wimbledon,CENTRAL LONDON
+1160000,Penthouse,1112,2,Wimbledon,CENTRAL LONDON
+450000,Flat / Apartment,377,1,Abbey Road,NORTH WEST LONDON
+3450000,Penthouse,1575,2,Notting Hill,CENTRAL LONDON
+2500000,House,1266,3,Marylebone,CENTRAL LONDON
+2150000,Flat / Apartment,1064,2,Sloane Square,CENTRAL LONDON
+1995000,Flat / Apartment,1053,2,Knightsbridge,CENTRAL LONDON
+2600000,Flat / Apartment,1722,3,Thurloe Place,CENTRAL LONDON
+795000,Flat / Apartment,691,1,20 Gatliff Road,CENTRAL LONDON
+1850000,Flat / Apartment,1480,3,4-10 Lexham Gardens,CENTRAL LONDON
+3500000,Flat / Apartment,1804,4,Duchess Of Bedford's Walk,CENTRAL LONDON
+450000,Studio,410,0,Vicarage Gate,CENTRAL LONDON
+2895000,Flat / Apartment,1850,3,33 Kensington Court,CENTRAL LONDON
+1250000,Flat / Apartment,1317,3,29 Sheffield Terrace,CENTRAL LONDON
+4250000,Flat / Apartment,2713,6,Kensington High Street,CENTRAL LONDON
+1175000,Flat / Apartment,793,2,Thackeray Street,CENTRAL LONDON
+1550000,Flat / Apartment,923,2,Vicarage Gate,CENTRAL LONDON
+1450000,House,1899,4,East Sheen,CENTRAL LONDON
+4750000,House,3104,6,Chelsea,CENTRAL LONDON
+799950,Flat / Apartment,890,2,721 Fulham Road,CENTRAL LONDON
+850000,House,1167,3,Battersea,CENTRAL LONDON
+560000,Flat / Apartment,779,1, Battersea,CENTRAL LONDON
+910000,House,960,3,Battersea,CENTRAL LONDON
+399950,Flat / Apartment,621,1, Wimbledon,CENTRAL LONDON
+465000,Flat / Apartment,592,1,Wimbledon,CENTRAL LONDON
+1295000,Flat / Apartment,1702,4, Putney,CENTRAL LONDON
+825000,Flat / Apartment,947,2,Putney,CENTRAL LONDON
+1195000,Flat / Apartment,879,2,Primrose Hill,NORTH WEST LONDON
+1250000,Flat / Apartment,1061,2,Regent's Park,NORTH WEST LONDON
+985000,Flat / Apartment,677,2, Bloomsbury,CENTRAL LONDON
+530000,Flat / Apartment,482,1,Highbury,NORTH LONDON
+4200000,House,2968,3,Islington,NORTH LONDON
+1375000,House,1340,3,Islington,NORTH LONDON
+575000,Flat / Apartment,707,2,Hackney,EAST LONDON
+2950000,House,2740,4,Highgate,NORTH LONDON
+3250000,House,3156,5,Fulham,CENTRAL LONDON
+300000,Flat / Apartment,517,1,Newham,EAST LONDON
+510000,New development,577,1, Battersea,CENTRAL LONDON
+350000,Flat / Apartment,302,1,Fulham,CENTRAL LONDON
+875000,Flat / Apartment,981,2,Brook Green,CENTRAL LONDON
+1095000,House,2642,3,Kingston,CENTRAL LONDON
+3350000,House,3256,5,Wimbledon,CENTRAL LONDON
+3950000,House,2530,6,Chelsea,CENTRAL LONDON
+475000,Flat / Apartment,650,2,1 Tiltman Place,NORTH LONDON
+599950,New development,930,3,Homerton,EAST LONDON
+585000,Flat / Apartment,881,2,Hackney,EAST LONDON
+1750000,House,2223,4,Childs Hill,NORTH WEST LONDON
+950000,House,1258,4,Acton,WEST LONDON
+910000,Flat / Apartment,683,1, South Bank,SOUTH EAST LONDON
+1849950,House,2372,5,Streatham,SOUTH WEST LONDON
+700000,Flat / Apartment,758,2,New Kings Road,CENTRAL LONDON
+425000,Flat / Apartment,549,1,Wimbledon,CENTRAL LONDON
+3000000,House,2432,4,St John's Wood,NORTH WEST LONDON
+775000,Flat / Apartment,990,2,Putney,CENTRAL LONDON
+4950000,House,4482,7,Clapham,SOUTH WEST LONDON
+649000,New development,560,1,82-88 Fulham High Street,CENTRAL LONDON
+499950,Flat / Apartment,386,1,Islington,NORTH LONDON
+399950,Flat / Apartment,806,3, Finsbury Park,NORTH LONDON
+1085000,House,1705,3,Hackney,EAST LONDON
+1595000,House,1679,4,Fulham,CENTRAL LONDON
+1799995,New development,1236,2,Water Lane,CITY OF LONDON
+2700000,House,2685,5,Stamford Brook,CENTRAL LONDON
+1150000,House,1301,4,Chiswick,WEST LONDON
+2475000,House,2406,5,Barnes,CENTRAL LONDON
+799950,House,766,2,Battersea,CENTRAL LONDON
+2950000,Flat / Apartment,1181,2,Belgravia,CENTRAL LONDON
+625000,Flat / Apartment,693,2, Maida Vale,CENTRAL LONDON
+1650000,House,2048,4,Hackney,EAST LONDON
+525000,New development,666,1,Ealing,CENTRAL LONDON
+1500000,Flat / Apartment,1438,3, Juniper Drive,CENTRAL LONDON
+3750000,Flat / Apartment,1550,2,Belgravia,CENTRAL LONDON
+895000,Flat / Apartment,1039,2, Putney,CENTRAL LONDON
+650000,Duplex,890,2, Battersea,CENTRAL LONDON
+550000,New development,547,1, 35 Salusbury Road,NORTH WEST LONDON
+1550000,House,1378,3,De Beauvoir,NORTH LONDON
+4950000,New development,3330,3,55 Primrose Hill Road,NORTH WEST LONDON
+2850000,Flat / Apartment,1752,2,55 Primrose Hill Road,NORTH WEST LONDON
+2250000,Flat / Apartment,2557,3, Fulham,CENTRAL LONDON
+595000,New development,807,2,North Ealing,WEST LONDON
+1350000,Flat / Apartment,2264,2, Canary Wharf,EAST LONDON
+545000,New development,773,2,Bow,EAST LONDON
+1195000,House,1668,4,Acton,WEST LONDON
+822500,New development,869,2, Putney,CENTRAL LONDON
+1345000,Flat / Apartment,1030,3,1 Albert Embankment,SOUTH EAST LONDON
+1400000,Flat / Apartment,1145,2, Vauxhall,SOUTH WEST LONDON
+1750000,Flat / Apartment,1232,2,93 Albert Embankment,SOUTH EAST LONDON
+2350000,House,1844,4,Regent's Park,NORTH WEST LONDON
+1075000,Flat / Apartment,1142,3,Elm Tree Road,NORTH WEST LONDON
+2250000,Flat / Apartment,1348,2,Mayfair,CENTRAL LONDON
+699950,Flat / Apartment,787,2,Highbury Stadium Square,NORTH LONDON
+1425000,House,1761,3,Highbury,NORTH LONDON
+435000,Flat / Apartment,527,1,Islington,NORTH LONDON
+645000,New development,904,2, Ealing,WEST LONDON
+1750000,House,1891,5,Barnes,CENTRAL LONDON
+725000,Flat / Apartment,924,3,Fulham,CENTRAL LONDON
+850000,House,780,2,Battersea,CENTRAL LONDON
+2249000,House,2600,5,Wimbledon,CENTRAL LONDON
+525000,New development,558,1,3 Ryeland Boulevard,CENTRAL LONDON
+370000,Flat / Apartment,400,1,South Hackney,EAST LONDON
+2500000,Flat / Apartment,2132,2,Spitalfields,EAST LONDON
+715000,Flat / Apartment,764,2, Maida Vale,CENTRAL LONDON
+985000,Flat / Apartment,978,2, Maida Vale,CENTRAL LONDON
+4850000,Penthouse,1518,3,Fitzrovia,CENTRAL LONDON
+699950,House,1255,1,Islington,NORTH LONDON
+350000,Flat / Apartment,420,1, Acton,WEST LONDON
+3250000,House,3467,6,East Sheen,CENTRAL LONDON
+2166000,New development,1236,2,Water Lane,CITY OF LONDON
+480000,New development,577,1, Battersea,CENTRAL LONDON
+825000,Flat / Apartment,869,2,Brook Green,CENTRAL LONDON
+2950000,New development,2768,4,Battersea,CENTRAL LONDON
+585000,Flat / Apartment,784,2,Wimbledon,CENTRAL LONDON
+2975000,House,2041,3,Chelsea,CENTRAL LONDON
+899000,New development,982,2,Clapham Common North Side,SOUTH WEST LONDON
+550000,Flat / Apartment,736,2,Hackney,EAST LONDON
+1150000,Flat / Apartment,1302,2, Limehouse,EAST LONDON
+550000,New development,1023,2,Royal Albert Wharf,EAST LONDON
+690000,Flat / Apartment,753,2, Clerkenwell,CITY OF LONDON
+1175000,Flat / Apartment,949,2,Clerkenwell,CITY OF LONDON
+2000000,House,2222,5,Chiswick,WEST LONDON
+699950,Flat / Apartment,848,2, Battersea,CENTRAL LONDON
+900000,House,1223,3,Battersea,CENTRAL LONDON
+875000,House,1061,3,Battersea,CENTRAL LONDON
+1695000,House,1938,4,South Hackney,EAST LONDON
+845000,Flat / Apartment,960,2, St. John's Wood,NORTH WEST LONDON
+850000,House,1213,4, Hackney,EAST LONDON
+3250000,Flat / Apartment,1509,1,Belgravia,CENTRAL LONDON
+1750000,Flat / Apartment,1239,3,Primrose Hill,NORTH WEST LONDON
+550000,New development,562,1, Queens Park,NORTH WEST LONDON
+1050000,Flat / Apartment,1309,3,Marylebone,CENTRAL LONDON
+1095000,Flat / Apartment,945,1, Marylebone,CENTRAL LONDON
+1100000,Flat / Apartment,985,3,Hampstead,NORTH WEST LONDON
+3000000,Flat / Apartment,2427,4,Hampstead,NORTH WEST LONDON
+2150000,House,2416,5,Fulham,CENTRAL LONDON
+1800000,House,2129,5,East Sheen,CENTRAL LONDON
+2750000,House,3251,7,Ravenscourt Park,WEST LONDON
+2520000,House,2638,5,Brook Green,CENTRAL LONDON
+700000,Flat / Apartment,875,2,Battersea,CENTRAL LONDON
+1350000,House,1295,3,Battersea,CENTRAL LONDON
+3450000,Flat / Apartment,1215,2, Westminster,CENTRAL LONDON
+725000,Penthouse,1200,3,Hackney,EAST LONDON
+700000,Flat / Apartment,606,2,Clerkenwell,CITY OF LONDON
+695000,Flat / Apartment,796,2,Clerkenwell,CITY OF LONDON
+1299000,Flat / Apartment,827,2,City Of London,CITY OF LONDON
+5950000,Flat / Apartment,2817,3,Knightsbridge,CENTRAL LONDON
+1475000,House,1894,4,Putney,CENTRAL LONDON
+2950000,House,3336,7,Putney,CENTRAL LONDON
+2250000,Flat / Apartment,1297,2,St James's,CENTRAL LONDON
+599950,Flat / Apartment,734,1, Islington,NORTH LONDON
+850000,House,900,2,Fulham,CENTRAL LONDON
+825000,Flat / Apartment,1027,3,Fulham,CENTRAL LONDON
+1850000,House,1678,5,Fulham,CENTRAL LONDON
+1750000,Flat / Apartment,1390,3,11 Park Street,CENTRAL LONDON
+3150000,House,3100,5,Fulham,CENTRAL LONDON
+599950,Flat / Apartment,1128,3,Acton,WEST LONDON
+950000,Flat / Apartment,973,2,94 Wapping High Street,EAST LONDON
+1050000,New development,817,2,82-88 Fulham High Street,CENTRAL LONDON
+3895000,New development,4453,6,35A Arterberry Road,SOUTH WEST LONDON
+425000,Flat / Apartment,502,1, St. John's Wood,NORTH WEST LONDON
+439000,Flat / Apartment,670,2,Putney,CENTRAL LONDON
+4500000,House,2742,6,Notting Hill,CENTRAL LONDON
+1500000,House,1327,4,Highbury,NORTH LONDON
+625000,Flat / Apartment,513,1,Islington,NORTH LONDON
+499999,Flat / Apartment,700,1,De Beauvoir,NORTH LONDON
+2250000,House,2389,5,Chiswick,WEST LONDON
+3250000,House,3098,5,Barnes,CENTRAL LONDON
+1395000,Flat / Apartment,981,2,101 Wood Lane,CENTRAL LONDON
+475000,Flat / Apartment,705,2,Wandsworth Common West Side,CENTRAL LONDON
+1250000,House,1810,3,Putney,CENTRAL LONDON
+1150000,House,1468,3,Putney,CENTRAL LONDON
+1399000,House,1456,3,Battersea,CENTRAL LONDON
+4750000,Penthouse,1774,3,Fitzrovia,CENTRAL LONDON
+2275000,House,1969,4,Islington,NORTH LONDON
+599950,Flat / Apartment,657,2,Islington,NORTH LONDON
+1995000,House,2707,5,East Sheen,CENTRAL LONDON
+850000,Flat / Apartment,655,1,Star Place,EAST LONDON
+3750000,House,3391,5,Ravenscourt Park,WEST LONDON
+995000,House,1423,5,Chiswick,WEST LONDON
+850000,House,1163,3,Chiswick,WEST LONDON
+2400000,Flat / Apartment,1898,4,Drayton Gardens,CENTRAL LONDON
+599950,Flat / Apartment,830,3,Battersea,CENTRAL LONDON
+675000,Flat / Apartment,602,2, St. Johns Wood,NORTH WEST LONDON
+735000,Flat / Apartment,953,2,Camden,NORTH WEST LONDON
+1300000,House,2547,5,Brondesbury,NORTH WEST LONDON
+7450000,House,3997,6,South Kensington,CENTRAL LONDON
+8250000,House,3188,5,Belgravia,CENTRAL LONDON
+2395000,House,2212,4,Islington,NORTH LONDON
+500000,Flat / Apartment,675,1,Islington,NORTH LONDON
+2550000,House,2241,5,Canonbury,NORTH LONDON
+600000,New development,721,2, Clapton,EAST LONDON
+590000,Flat / Apartment,702,2,Lee Street,EAST LONDON
+550000,House,674,2,Tottenham Road,NORTH LONDON
+1650000,House,1716,5, Fulham,CENTRAL LONDON
+1250000,House,1700,4,Ealing,CENTRAL LONDON
+599000,Flat / Apartment,830,2,Ensign Street,EAST LONDON
+1350000,Flat / Apartment,1862,3,Wimbledon,SOUTH WEST LONDON
+1225000,House,1681,4,Wimbledon,CENTRAL LONDON
+650000,Flat / Apartment,779,2,Wimbledon,CENTRAL LONDON
+6950000,House,3911,6,St. John's Wood,NORTH WEST LONDON
+4495000,House,2607,4,St. John's Wood,NORTH WEST LONDON
+599950,Flat / Apartment,969,3, Putney,CENTRAL LONDON
+465000,Flat / Apartment,461,1, Putney,CENTRAL LONDON
+1800000,Flat / Apartment,1405,3, Hampstead,NORTH WEST LONDON
+2050000,New development,2875,4,Chiswick,WEST LONDON
+775000,Flat / Apartment,936,2,Barnes,CENTRAL LONDON
+2400000,House,2803,6,Battersea,CENTRAL LONDON
+825000,House,1388,3,Wimbledon,CENTRAL LONDON
+1000000,House,1306,4,Wandsworth,CENTRAL LONDON
+350000,Flat / Apartment,670,2, Lisson Grove,NORTH WEST LONDON
+3600000,House,1831,5,Notting Hill,CENTRAL LONDON
+765000,Duplex,992,2,St John's Hill,CENTRAL LONDON
+1675000,Flat / Apartment,1101,2,Little Venice,CENTRAL LONDON
+1375000,Flat / Apartment,1002,2,Marylebone,CENTRAL LONDON
+1350000,Mews,993,2,Marylebone,CENTRAL LONDON
+2500000,House,2537,6,Islington,NORTH LONDON
+4650000,House,4653,7,Highgate,NORTH LONDON
+550000,New development,773,2,Bow,EAST LONDON
+2700000,House,2953,7,Chiswick,WEST LONDON
+399950,Flat / Apartment,580,2,Gunnersbury,WEST LONDON
+595000,New development,545,1,Carlton Drive,CENTRAL LONDON
+675000,Flat / Apartment,778,2, Elephant Park,SOUTH EAST LONDON
+765000,New development,864,2,Wimbledon,CENTRAL LONDON
+835000,Flat / Apartment,651,1,St. John's Wood,NORTH WEST LONDON
+2395000,Flat / Apartment,1160,2, Fitzrovia,CENTRAL LONDON
+3250000,House,1738,3,Marylebone,CENTRAL LONDON
+2990000,New development,1451,3, Chelsea,CENTRAL LONDON
+1800000,House,4225,5,Mortlake,CENTRAL LONDON
+2300000,House,2800,6,East Sheen,CENTRAL LONDON
+573000,New development,429,0,199 To 207 Marsh Wall,EAST LONDON
+835000,Flat / Apartment,704,2,Clerkenwell,CITY OF LONDON
+2200000,House,2354,5, Chiswick,WEST LONDON
+2775000,Flat / Apartment,1711,3,St. James's,CENTRAL LONDON
+750000,Flat / Apartment,1076,3,Wimbledon,CENTRAL LONDON
+1425000,House,2173,5,Wandsworth,CENTRAL LONDON
+380000,Flat / Apartment,420,1,South Hackney,EAST LONDON
+2000000,House,2149,5,Putney,CENTRAL LONDON
+1490000,House,1875,5,Bellevue Village,CENTRAL LONDON
+710000,New development,818,2, Crouch End,NORTH LONDON
+915000,New development,810,2,82-88 Fulham High Street,CENTRAL LONDON
+2000000,House,2078,4,Barnsbury,NORTH LONDON
+425000,Flat / Apartment,495,1,Canonbury,NORTH LONDON
+499950,Flat / Apartment,656,2,Lower Holloway,NORTH LONDON
+1050000,Flat / Apartment,1186,3,Keats Grove,NORTH WEST LONDON
+1150000,House,1906,5, Fulham,CENTRAL LONDON
+1499995,New development,1142,2,Water Lane,CITY OF LONDON
+550000,Flat / Apartment,853,2,Chiswick,WEST LONDON
+550000,Flat / Apartment,500,1,Park Walk,CENTRAL LONDON
+1050000,House,1261,3,Barnes,CENTRAL LONDON
+2750000,House,2637,4,Barnes,CENTRAL LONDON
+1785000,House,2061,5,Battersea,CENTRAL LONDON
+450000,Studio,332,0, Westminster,CENTRAL LONDON
+375000,Flat / Apartment,515,1,Wimbledon,CENTRAL LONDON
+5500000,Flat / Apartment,1973,3,Belgravia,CENTRAL LONDON
+2000000,New development,1688,4,82-88 Fulham High Street,CENTRAL LONDON
+1595000,House,1828,3,Barnsbury,NORTH LONDON
+600000,Flat / Apartment,780,2,27-33 Fairfax Road,NORTH WEST LONDON
+1050000,House,1355,4,Wendell Park,WEST LONDON
+1385000,Flat / Apartment,990,3,Hortensia Road,CENTRAL LONDON
+650000,Flat / Apartment,1106,2, Wimbledon,SOUTH WEST LONDON
+10950000,Flat / Apartment,3111,3,Prince Consort Road,CENTRAL LONDON
+375000,Flat / Apartment,525,1,Putney,CENTRAL LONDON
+899000,House,1168,3,Putney,CENTRAL LONDON
+995000,House,1055,3,Putney,CENTRAL LONDON
+1695000,House,2368,5,Putney,CENTRAL LONDON
+495000,Flat / Apartment,815,2, Putney,CENTRAL LONDON
+775000,Flat / Apartment,665,2,Primrose Hill,NORTH WEST LONDON
+1150000,Flat / Apartment,1582,3,Clapham Common North Side,SOUTH WEST LONDON
+4400000,House,4102,5,Highgate,NORTH LONDON
+2300000,House,2362,5,Kentish Town,NORTH WEST LONDON
+625000,Flat / Apartment,676,1,42 Warwick Road,CENTRAL LONDON
+525000,New development,581,1,Chiswick,WEST LONDON
+635000,Flat / Apartment,936,2, Wimbledon,SOUTH WEST LONDON
+1550000,House,1884,4,Wimbledon,CENTRAL LONDON
+1000000,Penthouse,1190,3, Wandsworth,CENTRAL LONDON
+5500000,Flat / Apartment,2497,3,Basil Street,CENTRAL LONDON
+1325000,Flat / Apartment,779,2, Marylebone,CENTRAL LONDON
+950000,Flat / Apartment,1023,2,Canonbury,NORTH LONDON
+1150000,House,1580,4,Ealing,WEST LONDON
+730000,Penthouse,1127,3,Royal Albert Wharf,EAST LONDON
+860000,House,1010,2,Battersea,CENTRAL LONDON
+1250000,Flat / Apartment,960,2, Westminster,CENTRAL LONDON
+1295000,House,1940,5,Putney,CENTRAL LONDON
+595000,Flat / Apartment,1452,3, Putney,CENTRAL LONDON
+3995000,New development,2694,3, Fitzrovia,CENTRAL LONDON
+3000000,House,2011,4,Belsize Park,NORTH WEST LONDON
+2500000,House,2907,5,Fulham,CENTRAL LONDON
+6350000,Penthouse,4689,4, Fulham,CENTRAL LONDON
+1175000,House,1263,3,East Sheen,CENTRAL LONDON
+2100000,House,2360,4,Battersea,CENTRAL LONDON
+745000,Flat / Apartment,1181,3,162 Gideon Road,CENTRAL LONDON
+560000,Flat / Apartment,468,1,Pimlico,CENTRAL LONDON
+2450000,House,3831,5,Wimbledon,CENTRAL LONDON
+2295000,House,4569,5,Wimbledon,SOUTH WEST LONDON
+2395000,House,2443,5,Wimbledon,CENTRAL LONDON
+1250000,Penthouse,1600,2, Spitalfields,EAST LONDON
+850000,Flat / Apartment,1254,3, Dalston,EAST LONDON
+795000,House,2472,5,Putney,CENTRAL LONDON
+835000,House,1297,3,Putney,CENTRAL LONDON
+3500000,House,3709,7,Wandsworth,CENTRAL LONDON
+1200000,House,1298,4,Barnsbury,NORTH LONDON
+1050000,House,1206,2,Islington,NORTH LONDON
+500000,Flat / Apartment,794,2, Holloway,NORTH LONDON
+575000,Flat / Apartment,1034,2,De Beauvoir,NORTH LONDON
+575000,Flat / Apartment,741,2,Holloway,NORTH LONDON
+449950,Flat / Apartment,759,3,Southgate Road,NORTH LONDON
+2650000,House,2311,2,Islington,NORTH LONDON
+500000,Flat / Apartment,492,1,52 Holloway Road,NORTH LONDON
+1050000,House,1248,4,Aberdeen Park,NORTH LONDON
+629000,Flat / Apartment,640,2,Islington,NORTH LONDON
+499950,Flat / Apartment,690,2, Golders Green,NORTH WEST LONDON
+1690000,House,2099,4,Fulham,CENTRAL LONDON
+1450000,Flat / Apartment,963,2,South Kensington,CENTRAL LONDON
+1750000,Flat / Apartment,1189,2,50 Shad Thames,SOUTH EAST LONDON
+575000,New development,1023,2,Royal Albert Wharf,EAST LONDON
+575000,New development,558,1,Chiswick,WEST LONDON
+485000,Flat / Apartment,786,3, Barnes,CENTRAL LONDON
+500000,Flat / Apartment,564,2, West Kensington,CENTRAL LONDON
+1995000,House,2188,4,Westminster,CENTRAL LONDON
+1250000,House,1962,5,Wandsworth,CENTRAL LONDON
+1750000,House,2266,5,Wandsworth,CENTRAL LONDON
+1675000,House,2485,6,Wandsworth,CENTRAL LONDON
+1700000,House,1958,4,South Hackney,EAST LONDON
+799950,Penthouse,842,2,Shoreditch,EAST LONDON
+2100000,House,2565,5,Putney,CENTRAL LONDON
+599995,Flat / Apartment,926,2,Lower Holloway,NORTH LONDON
+435000,Flat / Apartment,439,1,Barnsbury,NORTH LONDON
+1450000,Mews,1568,4, Belsize Park,NORTH WEST LONDON
+2995000,New development,1446,2,Water Lane,CITY OF LONDON
+2495000,New development,1163,2,Water Lane,CITY OF LONDON
+3050000,House,2599,5,Battersea,CENTRAL LONDON
+1450000,House,1669,4,Wandsworth,CENTRAL LONDON
+1650000,House,2270,4,Putney,CENTRAL LONDON
+2000000,New development,1693,4,82-88 Fulham High Street,CENTRAL LONDON
+899000,Flat / Apartment,1003,2,Islington,NORTH LONDON
+1399000,Flat / Apartment,1351,2, Fulham,CENTRAL LONDON
+1250000,Flat / Apartment,1253,3, Fulham,CENTRAL LONDON
+800000,House,1018,2,Mortlake,CENTRAL LONDON
+490000,New development,695,2,Bow,EAST LONDON
+699950,New development,756,2,Barnes,CENTRAL LONDON
+899950,House,922,3,Battersea,CENTRAL LONDON
+2695000,House,3797,6,Wimbledon,CENTRAL LONDON
+1895000,House,2503,5,Wandsworth,CENTRAL LONDON
+1100000,Flat / Apartment,1236,2, Juniper Drive,CENTRAL LONDON
+6250000,Flat / Apartment,1736,3,19 Basil Street,CENTRAL LONDON
+535000,Flat / Apartment,729,2,Putney,CENTRAL LONDON
+550000,Flat / Apartment,849,2,Putney,CENTRAL LONDON
+835000,Flat / Apartment,875,2,2-8 Eton Avenue,NORTH WEST LONDON
+1895000,Flat / Apartment,1438,2,Fitzrovia,CENTRAL LONDON
+3300000,House,1889,4,Kensington,CENTRAL LONDON
+620000,New development,930,2,Homerton,EAST LONDON
+580000,New development,832,2,Homerton,EAST LONDON
+590000,New development,840,2,Homerton,EAST LONDON
+599950,New development,724,2, Hackney Wick,EAST LONDON
+1225000,House,1163,3, Fulham,CENTRAL LONDON
+850000,House,1389,3,Acton,WEST LONDON
+1375000,House,2441,5,Ealing Common,WEST LONDON
+1850000,House,2766,6,West Acton,WEST LONDON
+630000,New development,904,2, Ealing,WEST LONDON
+650000,New development,776,2,Ealing,WEST LONDON
+512500,New development,858,2,Royal Albert Wharf,EAST LONDON
+599950,Flat / Apartment,506,1,Clerkenwell,CITY OF LONDON
+950000,Flat / Apartment,939,1,Clerkenwell,CITY OF LONDON
+1450000,House,2028,5, Wimbledon,CENTRAL LONDON
+1795000,House,2336,5,Wimbledon,CENTRAL LONDON
+2900000,Flat / Apartment,1677,4, St. John's Wood,NORTH WEST LONDON
+1695000,House,3235,6,Putney,CENTRAL LONDON
+575000,Flat / Apartment,983,2,Putney,CENTRAL LONDON
+2100000,New development,1688,4,82-88 Fulham High Street,CENTRAL LONDON
+1195000,House,2150,5,Ealing Common,WEST LONDON
+475000,Flat / Apartment,637,2,Clapham,SOUTH WEST LONDON
+525000,Flat / Apartment,771,2, Wandsworth,CENTRAL LONDON
+2750000,Flat / Apartment,2339,5, Westminster,CENTRAL LONDON
+1395000,House,2358,6,Putney,CENTRAL LONDON
+1995000,Flat / Apartment,1156,3,Marylebone,CENTRAL LONDON
+1850000,New development,1462,3,82-88 Fulham High Street,CENTRAL LONDON
+2524000,New development,1008,2,Water Lane,CITY OF LONDON
+780000,New development,798,2,27 Carlton Drive,CENTRAL LONDON
+2225000,New development,2899,4,Chiswick,WEST LONDON
+550000,New development,581,1,Chiswick,WEST LONDON
+3150000,House,2894,5,Barnes,CENTRAL LONDON
+625000,Flat / Apartment,613,2,Prince of Wales Drive,CENTRAL LONDON
+699950,Flat / Apartment,1334,2, Wimbledon,SOUTH WEST LONDON
+9950000,Flat / Apartment,2832,3,Belgravia,CENTRAL LONDON
+999950,Flat / Apartment,840,2,Highbury,NORTH LONDON
+550000,Flat / Apartment,399,1,Islington,NORTH LONDON
+2600000,House,3318,5,East Finchley,NORTH LONDON
+2150000,House,2087,5,Fulham,CENTRAL LONDON
+1800000,House,2001,5,East Sheen,CENTRAL LONDON
+1395000,House,2390,5,Wandsworth,CENTRAL LONDON
+1100000,House,1370,3, Fulham,CENTRAL LONDON
+1200000,House,1743,4,Wandsworth,CENTRAL LONDON
+2125000,House,2591,5,Wandsworth,CENTRAL LONDON
+1425000,New development,1063,2,82-88 Fulham High Street,CENTRAL LONDON
+2650000,New development,1727,2, Belsize Park,NORTH WEST LONDON
+775000,New development,870,2,65 Maygrove Road,NORTH WEST LONDON
+2100000,Flat / Apartment,1527,3,Coleridge Gardens,CENTRAL LONDON
+1750000,House,2006,5,Battersea,CENTRAL LONDON
+700000,Flat / Apartment,807,2,Battersea,CENTRAL LONDON
+2250000,Flat / Apartment,1669,3, Westminster,CENTRAL LONDON
+750000,Flat / Apartment,1171,3, Wimbledon,CENTRAL LONDON
+599950,New development,883,2,Colliers Wood,CENTRAL LONDON
+650000,Flat / Apartment,976,2,Wimbledon,CENTRAL LONDON
+1285000,House,1968,5,Wandsworth,CENTRAL LONDON
+995000,Flat / Apartment,812,2, St. John's Wood,NORTH WEST LONDON
+450000,Flat / Apartment,533,1,Wandsworth,CENTRAL LONDON
+3950000,New development,1150,2,66 Chiltern Street,CENTRAL LONDON
+1400000,House,1406,4,Fulham,CENTRAL LONDON
+399950,Flat / Apartment,398,1,Oxford Road,WEST LONDON
+900000,New development,901,2,Wandsworth,CENTRAL LONDON
+835000,Flat / Apartment,1155,3,Clifton Road,CENTRAL LONDON
+750000,Flat / Apartment,815,2,Wimbledon,CENTRAL LONDON
+939999,House,1171,3, Wandsworth,CENTRAL LONDON
+655000,Flat / Apartment,761,2,Riverside Quarter,CENTRAL LONDON
+995000,Flat / Apartment,1041,2,St. John's Wood,NORTH WEST LONDON
+675000,Flat / Apartment,757,2, Haggerston,NORTH LONDON
+625000,Flat / Apartment,946,2,Battersea,CENTRAL LONDON
+795000,Flat / Apartment,666,2,Maida Vale,CENTRAL LONDON
+5950000,New development,1916,2,66 Chiltern Street,CENTRAL LONDON
+495000,Flat / Apartment,758,3,Lofting Road,NORTH LONDON
+699950,Flat / Apartment,935,3,Fulham Road,CENTRAL LONDON
+400000,Flat / Apartment,764,2,Hanger Lane,WEST LONDON
+1100000,House,1345,4,East Sheen,CENTRAL LONDON
+4416000,New development,1847,3,Water Lane,CITY OF LONDON
+699950,Flat / Apartment,831,2,Battersea,CENTRAL LONDON
+1995000,Flat / Apartment,1575,3,Belgravia,CENTRAL LONDON
+570000,Flat / Apartment,642,2,Islington,NORTH LONDON
+450000,Flat / Apartment,595,2,Green Lanes,NORTH LONDON
+695000,Flat / Apartment,1042,3, Hampstead,NORTH WEST LONDON
+1375000,House,1791,4,East Sheen,CENTRAL LONDON
+2150000,House,1929,5,Chiswick,WEST LONDON
+1750000,Flat / Apartment,1660,3,Prince of Wales Drive,CENTRAL LONDON
+4950000,Flat / Apartment,2610,5,Primrose Hill,NORTH WEST LONDON
+1100000,House,1685,5,Wandsworth,CENTRAL LONDON
+995000,Flat / Apartment,1172,3,Kentish Town,NORTH WEST LONDON
+495000,Flat / Apartment,696,1,1 Brightlingsea Place,EAST LONDON
+1795000,House,2605,4,Wimbledon,CENTRAL LONDON
+1795000,House,2001,5,Wimbledon,SOUTH WEST LONDON
+1350000,House,1519,3,Wandsworth,CENTRAL LONDON
+700000,House,947,2,Putney,CENTRAL LONDON
+1950000,Flat / Apartment,1765,2,Marylebone,CENTRAL LONDON
+1200000,Flat / Apartment,852,2,Fitzrovia,CENTRAL LONDON
+840000,Flat / Apartment,625,2, Marylebone,CENTRAL LONDON
+1050000,Flat / Apartment,848,3,Marylebone,CENTRAL LONDON
+1000000,Flat / Apartment,862,2,Kensington High Street,CENTRAL LONDON
+875000,Flat / Apartment,1210,2,Hampstead,NORTH WEST LONDON
+2250000,House,2654,5, Chiswick,WEST LONDON
+475000,New development,474,1,1 Woodger Road,CENTRAL LONDON
+550000,New development,540,1,28 Quebec Way,SOUTH EAST LONDON
+675000,Flat / Apartment,986,3,Putney,CENTRAL LONDON
+1100000,Penthouse,1809,2,17 Western Gateway,EAST LONDON
+450000,Flat / Apartment,566,1,Greenwich,SOUTH EAST LONDON
+1500000,House,2035,5,Barnes,CENTRAL LONDON
+695000,New development,734,2, Putney,CENTRAL LONDON
+1195000,Flat / Apartment,1300,3,Old Brompton Road,CENTRAL LONDON
+450000,Flat / Apartment,731,2,8 Jude Street,EAST LONDON
+475000,New development,639,1, West Ealing,CENTRAL LONDON
+699950,House,918,3,Wimbledon,CENTRAL LONDON
+699950,New development,942,2,Islington,NORTH LONDON
+750000,House,914,3,Wandsworth,CENTRAL LONDON
+675000,House,586,2,Wimbledon,CENTRAL LONDON
+765000,Flat / Apartment,818,2,Tollgate Gardens,NORTH WEST LONDON
+2500000,New development,1615,3, Hampstead,NORTH WEST LONDON
+3395000,House,3583,6,Putney,CENTRAL LONDON
+1200000,Flat / Apartment,1077,2, Victoria,CENTRAL LONDON
+595000,Flat / Apartment,947,3,Southfields,CENTRAL LONDON
+375000,Flat / Apartment,402,1,Sunnyside,CENTRAL LONDON
+1800000,House,2626,5,Southfields,CENTRAL LONDON
+2750000,House,4180,5,Wimbledon,SOUTH WEST LONDON
+575000,Flat / Apartment,680,2,Wandsworth,CENTRAL LONDON
+1695000,Flat / Apartment,1636,4,Marylebone,NORTH WEST LONDON
+600000,Flat / Apartment,514,1,Elm Tree Road,NORTH WEST LONDON
+699950,Flat / Apartment,816,2,Putney,CENTRAL LONDON
+1225000,House,1450,3,Putney,CENTRAL LONDON
+950000,New development,849,3,King's Cross,NORTH WEST LONDON
+799999,Flat / Apartment,483,1,Primrose Hill,NORTH WEST LONDON
+1500000,Flat / Apartment,1186,3, Marylebone,CENTRAL LONDON
+750000,Flat / Apartment,627,1,30 Gatliff Road,CENTRAL LONDON
+599950,Flat / Apartment,432,1,Islington,NORTH LONDON
+2250000,House,1642,4,Barnsbury,NORTH LONDON
+4395000,House,3292,5,Hampstead,NORTH WEST LONDON
+439950,Flat / Apartment,466,1,Makepeace Avenue,NORTH LONDON
+1795000,House,1669,4,Hornsey Lane,NORTH LONDON
+815000,Flat / Apartment,969,3,Fulham,CENTRAL LONDON
+480000,Flat / Apartment,732,2,32 Duckett Street,EAST LONDON
+399995,Flat / Apartment,553,1,Greenwich,SOUTH EAST LONDON
+1350000,House,1628,4,Chiswick,WEST LONDON
+760000,House,919,2,Chiswick,WEST LONDON
+1600000,House,1983,4, Chiswick,WEST LONDON
+500000,Flat / Apartment,373,1,Chelsea,CENTRAL LONDON
+2350000,House,2200,5,Barnes,CENTRAL LONDON
+1325000,House,1476,3,Barnes,CENTRAL LONDON
+850000,Flat / Apartment,906,2,49 Atalanta Street,CENTRAL LONDON
+1500000,Duplex,2024,4,Brackenbury Village,WEST LONDON
+1090000,New development,923,2,101 Wood Lane,CENTRAL LONDON
+1425000,Flat / Apartment,1067,2,6 Wood Crescent,CENTRAL LONDON
+1100000,Flat / Apartment,942,2,Albert Bridge Road,CENTRAL LONDON
+1000000,House,1523,4,Battersea,CENTRAL LONDON
+2500000,Flat / Apartment,1717,2, Battersea,CENTRAL LONDON
+499999,Flat / Apartment,360,1,Little Venice,CENTRAL LONDON
+800000,Flat / Apartment,558,2,Fitzrovia,CENTRAL LONDON
+1140000,New development,580,1, Fitzrovia,CENTRAL LONDON
+2150000,Flat / Apartment,1969,3, Marylebone,CENTRAL LONDON
+1895000,Penthouse,1447,3,35 Pembroke Road,CENTRAL LONDON
+1525000,House,1750,4,Hackney,EAST LONDON
+1500000,Flat / Apartment,1311,3, Longfield Avenue,WEST LONDON
+2950000,House,4125,6,Ealing,WEST LONDON
+2950000,House,3165,5,Ealing,CENTRAL LONDON
+850000,House,1326,3,East Sheen,CENTRAL LONDON
+999500,Flat / Apartment,796,2,22 Wapping High Street,EAST LONDON
+550000,Flat / Apartment,701,2,Balham,CENTRAL LONDON
+699995,Flat / Apartment,791,2, Canary Wharf,EAST LONDON
+1650000,House,2042,5, Fulham,CENTRAL LONDON
+625000,Flat / Apartment,776,1,3 Forfar Road,CENTRAL LONDON
+750000,Flat / Apartment,789,2,Islington,CITY OF LONDON
+539000,Flat / Apartment,610,2,Whiston Road,EAST LONDON
+699950,Flat / Apartment,602,2,North Kensington,CENTRAL LONDON
+1100000,Flat / Apartment,1058,2,Lafone Street,SOUTH EAST LONDON
+725000,Flat / Apartment,800,2,59 Lurline Gardens,CENTRAL LONDON
+1700000,Flat / Apartment,1303,3,Belgrave Gardens,NORTH WEST LONDON
+3350000,House,3564,4,Islington,NORTH LONDON
+3650000,House,3070,5,Belsize Park,NORTH WEST LONDON
+2850000,Flat / Apartment,1091,2,Mayfair,CENTRAL LONDON
+830000,Flat / Apartment,551,1,70 Buckingham Gate,CENTRAL LONDON
+895000,Flat / Apartment,836,2,Pimlico,CENTRAL LONDON
+8000000,House,6713,8,Wimbledon,CENTRAL LONDON
+825000,House,1443,3,Whitehead Close,CENTRAL LONDON
+625000,Flat / Apartment,925,3,Banbury Road,EAST LONDON
+3950000,Flat / Apartment,2573,3,34 De Vere Gardens,CENTRAL LONDON
+675000,Flat / Apartment,722,2,Canonbury,NORTH LONDON
+925000,Flat / Apartment,969,2,Star Place,EAST LONDON
+999950,Flat / Apartment,927,2,Albert Bridge Road,CENTRAL LONDON
+715000,Flat / Apartment,969,2, Canary Wharf,EAST LONDON
+1650000,House,1869,4,Barnes,CENTRAL LONDON
+2650000,House,2314,5,Islington,NORTH LONDON
+850000,Penthouse,1249,3, Shoreditch,EAST LONDON
+475000,Flat / Apartment,477,1,Hoxton,NORTH LONDON
+1250000,House,1658,4,Wandsworth,CENTRAL LONDON
+2500000,House,2960,5,Chiswick,WEST LONDON
+2950000,Penthouse,2128,3,20 Nine Elms Lane,SOUTH WEST LONDON
+1300000,Penthouse,1476,3,Downs Road,EAST LONDON
+1025000,Flat / Apartment,947,3,Albert Bridge Road,CENTRAL LONDON
+500000,Flat / Apartment,572,1, Highbury,NORTH LONDON
+625000,Flat / Apartment,842,1,Shoreditch,EAST LONDON
+1350000,House,1873,5,Wandsworth,CENTRAL LONDON
+2100000,Flat / Apartment,1556,4,Morpeth Terrace,CENTRAL LONDON
+39750000,New development,5623,5,Mayfair,CENTRAL LONDON
+14250000,New development,2415,3,Mayfair,CENTRAL LONDON
+730000,Flat / Apartment,693,2,Westminster,CENTRAL LONDON
+735000,Flat / Apartment,983,3,Wandsworth,CENTRAL LONDON
+495000,Flat / Apartment,499,1,Old Street,NORTH LONDON
+875000,Flat / Apartment,898,1, Shoreditch,CITY OF LONDON
+700000,Flat / Apartment,870,2,Maida Vale,CENTRAL LONDON
+8250000,New development,1455,2,Mayfair,CENTRAL LONDON
+800000,New development,920,3,Hackney,NORTH LONDON
+900000,Flat / Apartment,802,2, Clerkenwell,CITY OF LONDON
+800000,Flat / Apartment,532,1,Mayfair,CENTRAL LONDON
+2550000,House,2679,5,Chiswick,WEST LONDON
+675000,Flat / Apartment,676,1,Maida Vale,CENTRAL LONDON
+3950000,Flat / Apartment,2780,3,8 High Timber Street,CITY OF LONDON
+2250000,House,2736,5,Chiswick,WEST LONDON
+5500000,House,4292,6,Wandsworth,CENTRAL LONDON
+995000,Flat / Apartment,747,2,Westminster,CENTRAL LONDON
+1550000,Flat / Apartment,1315,3,21 Highbury Crescent,NORTH LONDON
+680000,Flat / Apartment,581,2,Pimlico,CENTRAL LONDON
+1395000,House,1428,5,Holloway,NORTH LONDON
+575000,Flat / Apartment,745,2,Enid Street,SOUTH EAST LONDON
+2675000,House,3595,5,Wimbledon,SOUTH WEST LONDON
+2200000,Flat / Apartment,2288,3,Old Street,NORTH LONDON
+740000,Penthouse,579,1,101 Wood Lane,CENTRAL LONDON
+1800000,House,2996,5,Blackheath,SOUTH EAST LONDON
+1430000,New development,905,2, Earls Court,CENTRAL LONDON
+1990000,Flat / Apartment,1364,3,St. Johns Wood Park,NORTH WEST LONDON
+525000,Flat / Apartment,779,4,Charlotte Terrace,NORTH LONDON
+3995000,House,4642,6,Pimlico,CENTRAL LONDON
+1225000,House,1495,4,Southfields,CENTRAL LONDON
+1175000,House,2259,5,Wandsworth,CENTRAL LONDON
+500000,Flat / Apartment,551,1,Shoreditch,CITY OF LONDON
+1750000,Flat / Apartment,1677,2,Primrose Hill,NORTH WEST LONDON
+2100000,Flat / Apartment,1550,3,Prince of Wales Drive,CENTRAL LONDON
+1685000,Flat / Apartment,1318,2,Prince of Wales Drive,CENTRAL LONDON
+550000,Flat / Apartment,759,1, Battersea,CENTRAL LONDON
+1150000,New development,1206,3, Wandsworth,CENTRAL LONDON
+1695000,Flat / Apartment,1168,2,Avenue Road,NORTH WEST LONDON
+500000,Flat / Apartment,508,1,Shoreditch,NORTH LONDON
+970000,Flat / Apartment,1350,2,350 The Highway,EAST LONDON
+475000,Flat / Apartment,663,2,Approach Road,EAST LONDON
+1680000,New development,1100,2, Earls Court,CENTRAL LONDON
+1250000,Flat / Apartment,802,1, Covent Garden,CENTRAL LONDON
+700000,Flat / Apartment,1387,4, Canary Wharf,EAST LONDON
+799999,Flat / Apartment,1283,2,Wandsworth,CENTRAL LONDON
+825000,Flat / Apartment,1175,3,Singapore Road,CENTRAL LONDON
+1050000,Flat / Apartment,953,2,101 Wood Lane,CENTRAL LONDON
+725000,Flat / Apartment,617,2, St Johns Wood,NORTH WEST LONDON
+525000,Flat / Apartment,472,1,348 Queenstown Road,CENTRAL LONDON
+1600000,Flat / Apartment,1019,3,30 Gatliff Road,CENTRAL LONDON
+1550000,House,2326,5,Wandsworth,CENTRAL LONDON
+750000,Flat / Apartment,1176,3,Wandsworth,CENTRAL LONDON
+950000,House,987,2,Shoreditch,EAST LONDON
+710000,Flat / Apartment,730,2,Putney,CENTRAL LONDON
+12950000,New development,2840,2, Marylebone,CENTRAL LONDON
+749950,Flat / Apartment,1053,3,Highbury,NORTH LONDON
+399995,Flat / Apartment,569,1, Greenwich,SOUTH EAST LONDON
+525000,Flat / Apartment,814,1,45 Narrow Street,EAST LONDON
+2500000,New development,2967,5,Chiswick,WEST LONDON
+950000,Flat / Apartment,698,2,Curlew Street,SOUTH EAST LONDON
+1225000,House,1510,4,Fulham,CENTRAL LONDON
+2170000,New development,1081,3, Earls Court,CENTRAL LONDON
+630000,Flat / Apartment,709,2, Canary Wharf,EAST LONDON
+1600000,House,1565,3,Islington,NORTH LONDON
+475000,Flat / Apartment,626,2,South Hackney,EAST LONDON
+550000,Flat / Apartment,358,1,Fitzrovia,CENTRAL LONDON
+4350000,House,4862,6,Barnes,CENTRAL LONDON
+1345000,House,1909,4,Putney,CENTRAL LONDON
+2250000,House,2978,5,Putney,CENTRAL LONDON
+500000,Flat / Apartment,752,1, Battersea,CENTRAL LONDON
+1600000,Flat / Apartment,1192,2,Lambeth,SOUTH EAST LONDON
+515000,Flat / Apartment,578,1,Wandsworth,CENTRAL LONDON
+1485000,House,1541,4,Bow,EAST LONDON
+3650000,House,2034,4,Regent's Park,NORTH WEST LONDON
+699950,Flat / Apartment,976,3,Canonbury,NORTH LONDON
+600000,Flat / Apartment,854,3,Eaton Rise,WEST LONDON
+395000,Penthouse,594,1, Greenwich,SOUTH EAST LONDON
+795000,Flat / Apartment,862,2,24 Marsh Wall,EAST LONDON
+1350000,Flat / Apartment,1768,3,Bishops King Road,CENTRAL LONDON
+3600000,Flat / Apartment,2147,3,24 New Globe Walk,SOUTH EAST LONDON
+1599950,Flat / Apartment,1111,3,Fernshaw Road,CENTRAL LONDON
+1850000,Flat / Apartment,1176,2,1 St. George Wharf,SOUTH WEST LONDON
+875000,House,1211,3,Putney,CENTRAL LONDON
+1595000,House,1643,5,Chiswick,WEST LONDON
+675000,Flat / Apartment,638,1,Fulham,CENTRAL LONDON
+900000,Flat / Apartment,822,2,Islington,NORTH LONDON
+6450000,House,5288,6,Belsize Park,NORTH WEST LONDON
+1600000,House,1195,2,Islington,NORTH LONDON
+3750000,Flat / Apartment,1358,2,Mayfair,CENTRAL LONDON
+465000,Flat / Apartment,730,2,Homerton High Street,EAST LONDON
+3250000,House,3179,6,Barnes,CENTRAL LONDON
+1500000,Flat / Apartment,1200,2,84 St. Katharines Way,EAST LONDON
+450000,Flat / Apartment,717,2,Canary Wharf,EAST LONDON
+2375000,Flat / Apartment,2123,3,Emery Hill Street,CENTRAL LONDON
+1780000,House,2264,5,Ealing,CENTRAL LONDON
+775000,Flat / Apartment,729,2,De Beauvoir,NORTH LONDON
+1450000,Flat / Apartment,1700,4,Earsby Street,CENTRAL LONDON
+425000,Flat / Apartment,563,1,Bow,EAST LONDON
+2000000,House,2009,4,Barnes,CENTRAL LONDON
+800000,House,1260,4,Canary Wharf,EAST LONDON
+900000,House,1275,3,Homerton,EAST LONDON
+779000,Flat / Apartment,832,2,Putney,CENTRAL LONDON
+945000,House,1146,2,Putney,CENTRAL LONDON
+1850000,House,1512,3,Islington,NORTH LONDON
+795000,New development,541,1,24 Bartholomew Close,CITY OF LONDON
+995000,Penthouse,1485,3,Greenwich,SOUTH EAST LONDON
+875000,Flat / Apartment,922,3,John Islip Street,CENTRAL LONDON
+565000,Flat / Apartment,653,1, Canary Wharf,EAST LONDON
+2000000,New development,1342,3,Shoreditch,CITY OF LONDON
+1000000,New development,772,2,Shoreditch,CITY OF LONDON
+1250000,House,1877,4,Canary Wharf,EAST LONDON
+895000,Flat / Apartment,601,1,Fitzrovia,CENTRAL LONDON
+900000,Flat / Apartment,1273,2,Shoreditch,CITY OF LONDON
+850000,Flat / Apartment,1382,3,Dartmouth Park,NORTH WEST LONDON
+725000,Flat / Apartment,872,2,Battersea,CENTRAL LONDON
+345000,Flat / Apartment,433,1,Wandsworth,CENTRAL LONDON
+1700000,Penthouse,1378,3,Maida Vale,CENTRAL LONDON
+1350000,Flat / Apartment,1428,3,4-10 Lexham Gardens,CENTRAL LONDON
+999950,Flat / Apartment,726,2,Highbury,NORTH LONDON
+3300000,House,2640,5,Islington,NORTH LONDON
+630000,Penthouse,1043,2,72 Lindfield Street,EAST LONDON
+720000,Flat / Apartment,987,2,Greenwich,SOUTH EAST LONDON
+2350000,House,2666,4,Grove Park,WEST LONDON
+1800000,House,1909,4,Battersea,CENTRAL LONDON
+367500,Flat / Apartment,472,1, Bow,EAST LONDON
+685000,Flat / Apartment,560,1,4 Canter Way,EAST LONDON
+1100000,House,1582,4,Hampstead,NORTH WEST LONDON
+865000,New development,606,1, Earls Court,CENTRAL LONDON
+725000,Flat / Apartment,696,2,Haverstock Street,NORTH LONDON
+1200000,House,1310,4,Chiswick,WEST LONDON
+1700000,House,2126,4,Barnes,CENTRAL LONDON
+525000,Flat / Apartment,596,2,375 Earlsfield Road,CENTRAL LONDON
+825000,Flat / Apartment,722,2, 352 Queenstown Road,CENTRAL LONDON
+1750000,Flat / Apartment,1481,2,93 Albert Embankment,SOUTH EAST LONDON
+1100000,House,1632,3, Wandsworth,CENTRAL LONDON
+1795000,Flat / Apartment,1149,2,St. John's Wood,NORTH WEST LONDON
+775000,Flat / Apartment,996,2,Hackney,EAST LONDON
+850000,Flat / Apartment,826,2,Clerkenwell,CITY OF LONDON
+875000,Flat / Apartment,977,2,Chiswick,WEST LONDON
+1000000,House,1354,3,Barnes,CENTRAL LONDON
+1050000,Flat / Apartment,751,2,78 Buckingham Gate,CENTRAL LONDON
+1295000,House,1647,4,Putney,CENTRAL LONDON
+775000,Flat / Apartment,863,2,Putney,CENTRAL LONDON
+495000,Flat / Apartment,821,2, Greenwich,SOUTH EAST LONDON
+600000,Flat / Apartment,455,1,95 Elm Park Gardens,CENTRAL LONDON
+1500000,House,2278,5,Barnes,CENTRAL LONDON
+800000,Flat / Apartment,708,2, 372 Queenstown Road,CENTRAL LONDON
+675000,Flat / Apartment,628,2,Islington,NORTH LONDON
+875000,Flat / Apartment,1077,2,Highgate,NORTH LONDON
+685000,New development,1000,3,Dalston Lane,EAST LONDON
+4000000,House,2435,3,Marylebone,CENTRAL LONDON
+1335000,House,1771,3,Putney,CENTRAL LONDON
+2250000,New development,1265,3,150 Vaughan Way,EAST LONDON
+1625000,Flat / Apartment,1612,3, Hampstead,NORTH WEST LONDON
+1200000,House,1335,4,Nightingale Triangle,CENTRAL LONDON
+5995000,New development,6313,6,Wimbledon,CENTRAL LONDON
+495000,Flat / Apartment,767,2,Copperwood Place,SOUTH EAST LONDON
+2750000,House,2479,4, Islington,NORTH LONDON
+1675000,House,2110,4,Hackney,EAST LONDON
+1595000,Flat / Apartment,1316,3, Westminster,CENTRAL LONDON
+1395000,Flat / Apartment,1171,3,St. Johns Wood Park,NORTH WEST LONDON
+3295000,Flat / Apartment,2435,4,9 Abbey Road,NORTH WEST LONDON
+800000,Flat / Apartment,857,1,Spitalfields,EAST LONDON
+3300000,House,1669,3,Belgravia,CENTRAL LONDON
+550000,Flat / Apartment,585,1,Highbury,NORTH LONDON
+3250000,House,2813,5,Highgate,NORTH LONDON
+2990000,House,3175,6, Fulham,CENTRAL LONDON
+475000,Flat / Apartment,566,1,Asher Way,EAST LONDON
+750000,Flat / Apartment,885,2, Limehouse,EAST LONDON
+950000,Flat / Apartment,1016,2,Barnes,CENTRAL LONDON
+450000,Flat / Apartment,495,1,Wandsworth,CENTRAL LONDON
+2250000,Flat / Apartment,1547,3,Primrose Hill,NORTH WEST LONDON
+1250000,Flat / Apartment,943,2,2-4 Primrose Hill Road,NORTH WEST LONDON
+850000,Flat / Apartment,861,2, Vauxhall,SOUTH WEST LONDON
+1000000,Flat / Apartment,1514,2, Canary Wharf,EAST LONDON
+825000,Flat / Apartment,687,2,Kentish Town,NORTH WEST LONDON
+1050000,Flat / Apartment,1091,2, Regatta Lane,WEST LONDON
+2375000,House,3116,6,Highgate,NORTH LONDON
+2950000,House,3235,6,Putney,CENTRAL LONDON
+1595000,Flat / Apartment,1219,2, Battersea,CENTRAL LONDON
+3750000,House,2243,5,St John's Wood,NORTH WEST LONDON
+550000,Flat / Apartment,599,1, Queens Park,NORTH WEST LONDON
+590000,Flat / Apartment,1048,2, Royal Docks,EAST LONDON
+1298000,New development,591,1,Covent Garden,CENTRAL LONDON
+7100000,House,2908,5,Belgravia,CENTRAL LONDON
+450000,Flat / Apartment,572,1,Wandsworth,CENTRAL LONDON
+1795000,House,1842,3, Islington,NORTH LONDON
+660000,Flat / Apartment,929,2, Canary Wharf,EAST LONDON
+7950000,Flat / Apartment,4168,4,Primrose Hill,NORTH WEST LONDON
+995000,Flat / Apartment,875,2, Shoreditch,CITY OF LONDON
+1350000,House,1520,3,Barnes,CENTRAL LONDON
+1195000,Penthouse,1260,3, Putney,CENTRAL LONDON
+1575000,Flat / Apartment,979,2,Marylebone,CENTRAL LONDON
+550000,Flat / Apartment,474,1,Kentish Town,NORTH WEST LONDON
+4250000,House,2402,3,Hampstead,NORTH WEST LONDON
+445000,Flat / Apartment,667,2,Devonport Street,EAST LONDON
+625000,Flat / Apartment,768,2,Nightingale Lane,CENTRAL LONDON
+995000,Flat / Apartment,800,2,Clerkenwell,CITY OF LONDON
+465000,Flat / Apartment,594,1,Chiswick,WEST LONDON
+1300000,Flat / Apartment,1299,2, Barnes,CENTRAL LONDON
+1075000,Flat / Apartment,1138,2, Hampstead,NORTH WEST LONDON
+1750000,New development,2431,4,Hilgrove Road,NORTH WEST LONDON
+900000,Flat / Apartment,1054,2, Limehouse,EAST LONDON
+4795000,Flat / Apartment,3943,5, Vauxhall,SOUTH EAST LONDON
+600000,Flat / Apartment,568,1,Augustas Lane,NORTH LONDON
+1650000,House,2335,3,Wandsworth,CENTRAL LONDON
+435000,Flat / Apartment,510,1,Hackney,EAST LONDON
+700000,Penthouse,623,2,176 Gray's Inn Road,CENTRAL LONDON
+730000,New development,801,2,30-34 Woodfield Place,CENTRAL LONDON
+7250000,New development,1991,3,Marylebone,CENTRAL LONDON
+2850000,Flat / Apartment,1275,3, Mayfair,CENTRAL LONDON
+5250000,House,3092,5,Marylebone,CENTRAL LONDON
+600000,Flat / Apartment,869,2, Greenwich,SOUTH EAST LONDON
+899950,Flat / Apartment,1195,2,Putney,CENTRAL LONDON
+1175000,Flat / Apartment,776,2, Notting Hill,CENTRAL LONDON
+725000,Duplex,940,3,Hertford Road,NORTH LONDON
+2250000,House,2293,4,South Hampstead,NORTH WEST LONDON
+400000,Flat / Apartment,708,2,Chiswick,WEST LONDON
+2150000,House,2598,5, Wandsworth,CENTRAL LONDON
+895000,House,1133,3,Barnes,CENTRAL LONDON
+2500000,House,1888,3,Marylebone,CENTRAL LONDON
+550000,Flat / Apartment,481,1,99 Leman Street,EAST LONDON
+879950,New development,1048,2, Putney,CENTRAL LONDON
+2300000,House,2526,5,Chiswick,WEST LONDON
+650000,Flat / Apartment,664,2, Putney,CENTRAL LONDON
+600000,New development,813,2,Palmerston Road,WEST LONDON
+775000,Flat / Apartment,941,1,315 Kingsland Road,EAST LONDON
+7250000,Flat / Apartment,2248,4,Regent's Park,NORTH WEST LONDON
+675000,Flat / Apartment,1097,2,Smugglers Way,CENTRAL LONDON
+350000,Flat / Apartment,507,1,70 Parkside,CENTRAL LONDON
+1250000,Flat / Apartment,763,1,Bayswater,CENTRAL LONDON
+800000,Flat / Apartment,1022,2,Canonbury,NORTH LONDON
+735000,Flat / Apartment,747,2,Hackney,EAST LONDON
+1450000,Flat / Apartment,1849,2,4 Fairmont Avenue,EAST LONDON
+1300000,New development,1203,3,Canary Wharf,EAST LONDON
+360000,Flat / Apartment,411,1,Bethnal Green,EAST LONDON
+950000,Flat / Apartment,970,2, Fulham,CENTRAL LONDON
+2950000,Flat / Apartment,840,2,Mayfair,CENTRAL LONDON
+615000,Flat / Apartment,694,2,Manfred Road,CENTRAL LONDON
+580000,Flat / Apartment,817,2,Wandsworth,CENTRAL LONDON
+325000,Flat / Apartment,500,1,210 Poplar High Street,EAST LONDON
+995000,Flat / Apartment,1039,2,College Crescent,NORTH WEST LONDON
+995000,House,1275,2,Battersea,CENTRAL LONDON
+1150000,House,1758,4,Wandsworth,CENTRAL LONDON
+1100000,House,1432,4,Wandsworth,CENTRAL LONDON
+475000,Flat / Apartment,471,1,Shannon Place,NORTH WEST LONDON
+1100000,Penthouse,1052,2, Shoreditch,EAST LONDON
+499999,Flat / Apartment,464,1,Chalk Farm,NORTH WEST LONDON
+398000,Flat / Apartment,292,1,Primrose Hill,NORTH WEST LONDON
+2100000,House,1677,3,Islington,NORTH LONDON
+900000,Flat / Apartment,1013,2,10 Llanvanor Road,NORTH WEST LONDON
+4500000,Flat / Apartment,2774,4,Belsize Park,NORTH WEST LONDON
+800000,Flat / Apartment,814,2,Clerkenwell,CITY OF LONDON
+2350000,House,2299,5,Battersea,CENTRAL LONDON
+1860000,Flat / Apartment,1174,2,Victoria,CENTRAL LONDON
+850000,Flat / Apartment,601,2, Westminster,CENTRAL LONDON
+650000,Flat / Apartment,929,2, Canary Wharf,EAST LONDON
+625000,Flat / Apartment,693,2,Fulham,CENTRAL LONDON
+885000,New development,1175,3,Kenninghall Road,EAST LONDON
+595000,New development,647,2,Putney,CENTRAL LONDON
+595000,New development,657,2,Putney,CENTRAL LONDON
+539950,New development,592,2,Putney,CENTRAL LONDON
+750000,Flat / Apartment,1420,2,Clapham Common North Side,SOUTH WEST LONDON
+1750000,Flat / Apartment,1203,3, Islington,NORTH LONDON
+575000,Flat / Apartment,701,2,5 Hutchings Street,EAST LONDON
+650000,Flat / Apartment,864,3,Eastway,EAST LONDON
+2750000,Flat / Apartment,1471,3,Primrose Hill,NORTH WEST LONDON
+2275000,Flat / Apartment,1540,3,Primrose Hill,NORTH WEST LONDON
+1295000,Flat / Apartment,887,2,9 Gatliff Road,CENTRAL LONDON
+1575000,House,1799,4,Hackney,EAST LONDON
+1900000,House,2199,4,Chiswick,WEST LONDON
+2895000,House,3334,6,Barnes,CENTRAL LONDON
+750000,Flat / Apartment,580,1,101 Wood Lane,CENTRAL LONDON
+2350000,Flat / Apartment,2168,3, Battersea,CENTRAL LONDON
+2150000,Flat / Apartment,1959,3,47 Marsham Street,CENTRAL LONDON
+1300000,House,2346,5,Wimbledon,SOUTH WEST LONDON
+795000,Flat / Apartment,1082,2, Wimbledon,CENTRAL LONDON
+1350000,Flat / Apartment,1888,3,Wimbledon,SOUTH WEST LONDON
+550000,Flat / Apartment,469,2, Marylebone,NORTH WEST LONDON
+635000,Flat / Apartment,619,2,Eamont Street,NORTH WEST LONDON
+670000,Flat / Apartment,669,1,Winchester Road,NORTH WEST LONDON
+1000000,Flat / Apartment,1173,2,Shoreditch,CITY OF LONDON
+1075000,House,1255,3,Putney,CENTRAL LONDON
+799950,Flat / Apartment,905,2,Putney,CENTRAL LONDON
+3695000,House,4661,6,Putney,CENTRAL LONDON
+850000,Flat / Apartment,791,2,Elgin Avenue,CENTRAL LONDON
+1095000,Flat / Apartment,663,2,Marylebone,CENTRAL LONDON
+2575000,Flat / Apartment,1374,3,Marylebone,CENTRAL LONDON
+1750000,Flat / Apartment,1089,2,Mayfair,CENTRAL LONDON
+300000,Flat / Apartment,483,1,Livermere Road,EAST LONDON
+1795000,House,1787,4,Kentish Town,NORTH WEST LONDON
+2350000,House,2858,5, Fulham,CENTRAL LONDON
+1950000,Flat / Apartment,1730,3,Ranelagh Gardens,CENTRAL LONDON
+1400000,House,1102,3, Fulham,CENTRAL LONDON
+500000,Flat / Apartment,770,2,Ealing,WEST LONDON
+870000,Flat / Apartment,635,1,1-3 Coleherne Road,CENTRAL LONDON
+550000,Flat / Apartment,848,2,10 Gatton Road,CENTRAL LONDON
+450000,Flat / Apartment,640,2, Canary Wharf,EAST LONDON
+399995,Flat / Apartment,569,1,2 Rennie Street,SOUTH EAST LONDON
+650000,Flat / Apartment,1399,2, Canary Wharf;,EAST LONDON
+950000,Flat / Apartment,963,2,Clerkenwell,CITY OF LONDON
+885000,Flat / Apartment,747,2,Clerkenwell,CITY OF LONDON
+1595000,House,1688,5,Chiswick,WEST LONDON
+675000,House,705,2,20-24 Beaumont Road,WEST LONDON
+2500000,House,3491,6,Barnes,CENTRAL LONDON
+775000,New development,672,1,101 Wood Lane,CENTRAL LONDON
+995000,Flat / Apartment,1081,3,22 Bute Gardens,WEST LONDON
+570000,Flat / Apartment,640,1,59 Lurline Gardens,CENTRAL LONDON
+950000,Flat / Apartment,935,2, Battersea,CENTRAL LONDON
+550000,Flat / Apartment,569,2, Shoreditch,EAST LONDON
+1200000,Flat / Apartment,1101,2, Fulham,WEST LONDON
+1900000,Flat / Apartment,1961,3, Wimbledon,CENTRAL LONDON
+600000,Flat / Apartment,721,2,Wandsworth,CENTRAL LONDON
+5750000,House,3753,6,St John's Wood,NORTH WEST LONDON
+450000,Flat / Apartment,549,1,1A Belsham Street,EAST LONDON
+1795000,House,2064,4,1A Frognal,NORTH WEST LONDON
+899995,Penthouse,1310,2,20 Western Gateway,EAST LONDON
+2125000,House,2128,4,Barnes,CENTRAL LONDON
+2000000,Flat / Apartment,1467,3,Bloomsbury,CENTRAL LONDON
+450000,Flat / Apartment,677,1,3 Western Gateway,EAST LONDON
+375000,Flat / Apartment,502,1,Felstead Street,EAST LONDON
+650000,Flat / Apartment,562,1,3 Myddelton Passage,CITY OF LONDON
+1395000,House,1835,4,Putney,CENTRAL LONDON
+375000,Flat / Apartment,590,1, Newham,EAST LONDON
+650000,Flat / Apartment,662,1,Augustas Lane,NORTH LONDON
+1250000,Flat / Apartment,1159,2,Chelsea Harbour,CENTRAL LONDON
+775000,Flat / Apartment,847,2,South Hackney,EAST LONDON
+635000,Flat / Apartment,526,1, St. James's Park,CENTRAL LONDON
+699995,Flat / Apartment,919,2, Canary Wharf,EAST LONDON
+1100000,Flat / Apartment,1313,4,Hampstead,NORTH WEST LONDON
+4500000,Penthouse,2922,3,91 City Road,CITY OF LONDON
+2750000,Flat / Apartment,1295,3,Connaught Village,CENTRAL LONDON
+715000,Flat / Apartment,789,2,Queen's Park,NORTH WEST LONDON
+1977000,New development,1075,2,Shoreditch,CITY OF LONDON
+2379000,New development,1372,3,Shoreditch,CITY OF LONDON
+2899000,New development,1594,3,Shoreditch,CITY OF LONDON
+4750000,House,3546,5,Belsize Park,NORTH WEST LONDON
+450000,Flat / Apartment,800,3,Solebay Street,EAST LONDON
+1245000,House,1450,4,Putney,CENTRAL LONDON
+1195000,House,1262,3,Wandsworth,CENTRAL LONDON
+775000,Flat / Apartment,853,2,1 Poole Street,NORTH LONDON
+465000,Flat / Apartment,667,1,Putney,CENTRAL LONDON
+2400000,Flat / Apartment,1053,2,Fitzrovia,CENTRAL LONDON
+1695000,House,1903,4,Putney,CENTRAL LONDON
+2500000,House,2475,4,Highgate,NORTH LONDON
+850000,New development,819,2,Nine Elms,SOUTH WEST LONDON
+599999,New development,735,1, Wandsworth,CENTRAL LONDON
+575000,Flat / Apartment,613,1,Wandsworth,CENTRAL LONDON
+865000,Flat / Apartment,781,2,Primrose Hill,NORTH WEST LONDON
+1500000,Flat / Apartment,1364,3,6 Shad Thames,SOUTH EAST LONDON
+420000,Flat / Apartment,554,1,86 Wapping High Street,EAST LONDON
+825000,Flat / Apartment,573,1,Hampstead,NORTH WEST LONDON
+2150000,Flat / Apartment,802,2,Mayfair,CENTRAL LONDON
+999995,Flat / Apartment,763,2,Primrose Hill,NORTH WEST LONDON
+695000,Flat / Apartment,463,1,Homer Street,CENTRAL LONDON
+850000,Flat / Apartment,822,2,205 Randolph Avenue,CENTRAL LONDON
+1250000,Flat / Apartment,1407,2, Shoreditch,EAST LONDON
+1375000,Flat / Apartment,641,1,St. James's,CENTRAL LONDON
+560000,Flat / Apartment,541,1, Canary Wharf,EAST LONDON
+410000,Flat / Apartment,549,1,31 Eltringham Street,CENTRAL LONDON
+699999,Flat / Apartment,759,1,Camden,NORTH WEST LONDON
+4900000,Penthouse,2122,2,Marylebone,CENTRAL LONDON
+950000,New development,898,2,261B City Road,CITY OF LONDON
+900000,Flat / Apartment,962,2,Kentish Town,NORTH WEST LONDON
+1050000,New development,1184,2,63 Mortlake High Street,CENTRAL LONDON
+490000,Flat / Apartment,594,1,Hackney,EAST LONDON
+1095000,Flat / Apartment,741,1,Covent Garden,CENTRAL LONDON
+625000,Flat / Apartment,648,2,Barnes,CENTRAL LONDON
+3350000,Flat / Apartment,2024,4,35 Kensington Court,CENTRAL LONDON
+720000,New development,883,2,3 City North Place,NORTH LONDON
+715000,New development,883,2,3 City North Place,NORTH LONDON
+710000,New development,883,2,3 City North Place,NORTH LONDON
+450000,Flat / Apartment,678,2,Wandsworth,CENTRAL LONDON
+950000,Flat / Apartment,955,2,142 Offord Road,NORTH LONDON
+1200000,Penthouse,1152,3,52 Prince of Wales Road,NORTH WEST LONDON
+4950000,House,3908,4,Bloomsbury,CENTRAL LONDON
+2100000,House,2290,5,Chiswick,WEST LONDON
+1250000,House,1013,3,Islington,NORTH LONDON
+925000,Penthouse,913,2,Hackney,EAST LONDON
+3100000,Flat / Apartment,1682,2,Belgravia,CENTRAL LONDON
+1775000,House,3143,6,Chiswick,WEST LONDON
+1750000,House,2230,5,Wandsworth,CENTRAL LONDON
+5700000,New development,2482,3,Duchess of Bedfords Walk,CENTRAL LONDON
+2950000,House,1415,3,Chelsea,CENTRAL LONDON
+650000,Flat / Apartment,570,1,27 Lindsay Square,CENTRAL LONDON
+299950,Flat / Apartment,274,1,Hackney Wick,EAST LONDON
+6500000,House,4185,6,Regent's Park,NORTH WEST LONDON
+475000,Flat / Apartment,720,2,Bethnal Green,EAST LONDON
+750000,Flat / Apartment,738,2,Maida Vale,CENTRAL LONDON
+2595000,Flat / Apartment,2006,3,Maida Vale,CENTRAL LONDON
+3750000,New development,1545,3,Temple,CENTRAL LONDON
+575000,Flat / Apartment,688,2,Haggerston,EAST LONDON
+900000,New development,986,2, Longfield Avenue,WEST LONDON
+495000,Flat / Apartment,626,1,73 Wapping High Street,EAST LONDON
+300000,Flat / Apartment,446,1, Lewisham,SOUTH EAST LONDON
+795000,House,1019,3, Chiswick,WEST LONDON
+1250000,House,1606,3,Barnes,CENTRAL LONDON
+1875000,Flat / Apartment,1383,3,Prince of Wales Drive,CENTRAL LONDON
+700000,Flat / Apartment,898,2,Wandsworth,CENTRAL LONDON
+925000,House,1357,3,Wandsworth,CENTRAL LONDON
+1150000,Flat / Apartment,1816,2,Carlisle Place,CENTRAL LONDON
+3995000,House,5509,5,Wimbledon,CENTRAL LONDON
+3300000,House,2885,6, Chiswick,WEST LONDON
+425000,Flat / Apartment,523,1, Putney,CENTRAL LONDON
+350000,Flat / Apartment,512,1,Prusom Street,EAST LONDON
+5500000,New development,1866,2, Kensington,CENTRAL LONDON
+399000,Flat / Apartment,469,1,Malvern Road,NORTH WEST LONDON
+1200000,Penthouse,1154,2,154 Lever Street,CITY OF LONDON
+2850000,New development,2767,3,Barnes,CENTRAL LONDON
+825000,Flat / Apartment,1055,3,Wandsworth,CENTRAL LONDON
+8950000,Flat / Apartment,3701,3, 50 Shad Thames,SOUTH EAST LONDON
+4750000,House,4002,5,Canonbury,NORTH LONDON
+16999999,House,11733,9,Highgate,NORTH LONDON
+1250000,Flat / Apartment,1332,3,Hampstead,NORTH WEST LONDON
+1050000,Flat / Apartment,631,2,Marylebone,CENTRAL LONDON
+850000,Flat / Apartment,1100,2,Pimlico,CENTRAL LONDON
+1350000,House,1867,4,Wandsworth,CENTRAL LONDON
+1825000,House,2140,4, Wandsworth,CENTRAL LONDON
+2350000,House,3801,7,Wandsworth,CENTRAL LONDON
+800000,Penthouse,1039,3,55 Peloton Avenue,EAST LONDON
+1100000,Flat / Apartment,1152,3,Elm Tree Road,NORTH WEST LONDON
+799950,House,1160,3, Putney,CENTRAL LONDON
+1675000,House,1845,5,Islington,NORTH LONDON
+700000,Flat / Apartment,964,2,Eaton Rise,WEST LONDON
+1400000,House,2151,5,Ealing,WEST LONDON
+489000,Flat / Apartment,660,2,Rotherhithe Street,SOUTH EAST LONDON
+1395000,Penthouse,831,2,Hollywood Road,CENTRAL LONDON
+695000,Flat / Apartment,784,2,Chiswick,WEST LONDON
+500000,Flat / Apartment,822,2,18 Western Gateway,EAST LONDON
+950000,Flat / Apartment,880,2, Battersea,CENTRAL LONDON
+1525000,Flat / Apartment,1215,2,Thirleby Road,CENTRAL LONDON
+649950,Flat / Apartment,510,1,Park Road,NORTH WEST LONDON
+3495000,Penthouse,1409,3,Knightsbridge,CENTRAL LONDON
+4250000,Flat / Apartment,2750,4,Little Venice,CENTRAL LONDON
+450000,Flat / Apartment,386,1, Clerkenwell,CITY OF LONDON
+650000,Flat / Apartment,458,2,Pimlico,CENTRAL LONDON
+3850000,New development,1776,3,Fulham Road,CENTRAL LONDON
+5500000,Flat / Apartment,2651,4,124 Knightsbridge,CENTRAL LONDON
+1300000,Flat / Apartment,832,2,Chelsea Manor Gardens,CENTRAL LONDON
+1150000,Flat / Apartment,928,2,Little Venice,CENTRAL LONDON
+2950000,House,3953,4,Barnes,CENTRAL LONDON
+2795000,House,2768,4,Battersea,CENTRAL LONDON
+1150000,Flat / Apartment,1100,3,Richmond Way,CENTRAL LONDON
+1900000,House,2090,4,Ravenscourt Park,WEST LONDON
+550000,Flat / Apartment,517,1,Hammersmith,WEST LONDON
+1550000,House,1777,4,Wandsworth,CENTRAL LONDON
+1000000,Flat / Apartment,902,1, Shoreditch,NORTH LONDON
+2500000,New development,3682,5,Blackheath,SOUTH EAST LONDON
+650000,Flat / Apartment,797,2,45 East Hill,CENTRAL LONDON
+1950000,Flat / Apartment,1883,3,Hampstead,NORTH WEST LONDON
+2750000,Flat / Apartment,1821,4,Old Brompton Road,CENTRAL LONDON
+2800000,House,2682,5,Fulham,CENTRAL LONDON
+7000000,House,6388,8,East Sheen,CENTRAL LONDON
+395000,Flat / Apartment,553,1,Greenwich,SOUTH EAST LONDON
+685000,Flat / Apartment,661,2,Maida Vale,CENTRAL LONDON
+795000,Flat / Apartment,986,2,21 Ravenscourt Gardens,WEST LONDON
+600000,Flat / Apartment,570,2,14 Lanark Road,CENTRAL LONDON
+775000,Flat / Apartment,832,3,Knighten Street,EAST LONDON
+1175000,Flat / Apartment,880,2,3 Wood Crescent,CENTRAL LONDON
+3000000,Flat / Apartment,1901,4,Primrose Hill,NORTH WEST LONDON
+975000,Flat / Apartment,787,2,Maida Vale,CENTRAL LONDON
+2650000,Penthouse,2402,5,Highgate,NORTH LONDON
+575000,Flat / Apartment,793,3, Barnes,CENTRAL LONDON
+4400000,House,2087,4,Belgravia,CENTRAL LONDON
+1100000,Flat / Apartment,908,2,Hampstead,NORTH WEST LONDON
+1495000,Flat / Apartment,971,2,The Little Boltons,CENTRAL LONDON
+3250000,House,3203,5,Barnes,CENTRAL LONDON
+599950,Flat / Apartment,680,2,Edgeley Road,SOUTH WEST LONDON
+940000,Flat / Apartment,1155,2,Putney,CENTRAL LONDON
+399950,Flat / Apartment,305,1,Wimbledon,CENTRAL LONDON
+365000,Flat / Apartment,415,1,60 Fairfield Road,EAST LONDON
+750000,Flat / Apartment,892,2,Maida Vale,CENTRAL LONDON
+1850000,House,2247,5,Wandsworth,CENTRAL LONDON
+1000000,Flat / Apartment,892,2,Primrose Hill,NORTH WEST LONDON
+2250000,Flat / Apartment,1945,3, Battesea,CENTRAL LONDON
+3750000,House,4847,6,Camden,NORTH WEST LONDON
+750000,Flat / Apartment,880,2,Lower Holloway,NORTH LONDON
+500000,Flat / Apartment,680,2, Battersea,CENTRAL LONDON
+1600000,Flat / Apartment,1282,2, Chelsea Harbour,CENTRAL LONDON
+700000,Flat / Apartment,836,2,Clerkenwell,CITY OF LONDON
+780000,Flat / Apartment,767,2,Maida Vale,CENTRAL LONDON
+2750000,House,1782,4,Belgravia,CENTRAL LONDON
+1699000,House,1993,5,Fulham,CENTRAL LONDON
+800000,Flat / Apartment,945,3, St. John's Wood,NORTH WEST LONDON
+1250000,Flat / Apartment,1203,2, Canary Wharf,EAST LONDON
+1250000,House,2804,5,Hanwell,WEST LONDON
+2750000,House,2605,6, Fulham,CENTRAL LONDON
+745000,Flat / Apartment,703,2,Fitzrovia,CENTRAL LONDON
+525000,Flat / Apartment,654,2, Putney,CENTRAL LONDON
+1150000,Flat / Apartment,882,2,257 City Road,CITY OF LONDON
+1050000,New development,612,1,Primrose Hill,NORTH WEST LONDON
+2900000,Penthouse,1455,2,Marylebone,CENTRAL LONDON
+11950000,House,7226,5,Marylebone,CENTRAL LONDON
+2800000,House,2959,5, Chiswick,WEST LONDON
+1400000,Flat / Apartment,732,2,South Kensington,CENTRAL LONDON
+725000,Flat / Apartment,1242,2,Barnes,CENTRAL LONDON
+850000,Flat / Apartment,838,2,Prince of Wales Drive,CENTRAL LONDON
+255000,Flat / Apartment,440,1,De Beauvoir,NORTH LONDON
+1500000,New development,843,1,Soho,CENTRAL LONDON
+5950000,Penthouse,1993,3,4 De Vere Gardens,CENTRAL LONDON
+550000,Flat / Apartment,893,2,54 Crowder Street,EAST LONDON
+500000,Flat / Apartment,418,1,Kentish Town,NORTH WEST LONDON
+2950000,House,3601,6,Wimbledon,SOUTH WEST LONDON
+1135000,House,1675,4, Wandsworth,CENTRAL LONDON
+1799500,House,2761,6,Holloway,NORTH LONDON
+650000,Flat / Apartment,1018,2,Hackney,EAST LONDON
+2350000,House,2835,4,Hampstead Garden Suburb,NORTH WEST LONDON
+1900000,Flat / Apartment,1963,4, Limehouse,EAST LONDON
+1950000,House,1907,5,Barnes,CENTRAL LONDON
+4950000,New development,2011,2,Duchess of Bedfords Walk,CENTRAL LONDON
+3995000,House,3480,3,Hampstead,NORTH WEST LONDON
+6975000,Flat / Apartment,2583,3,St John's Wood,NORTH WEST LONDON
+2250000,House,1269,2,Marylebone,CENTRAL LONDON
+2595000,House,3100,5,Barnes,CENTRAL LONDON
+650000,Flat / Apartment,767,2, Islington,NORTH LONDON
+685000,Flat / Apartment,783,3, Barnes,CENTRAL LONDON
+600000,Flat / Apartment,1026,3,Bethnal Green,EAST LONDON
+515000,Flat / Apartment,518,1,Hackney,EAST LONDON
+699950,Flat / Apartment,743,2,18A Varden Street,EAST LONDON
+750000,Flat / Apartment,1072,4,Queen Caroline Street,WEST LONDON
+599950,Flat / Apartment,657,2,Battersea,CENTRAL LONDON
+1050000,New development,1075,3, Canary Wharf,EAST LONDON
+575000,Flat / Apartment,810,2, Newham,EAST LONDON
+500000,Flat / Apartment,536,1,Alexandra Avenue,CENTRAL LONDON
+795000,Flat / Apartment,753,2,Duke of Wellington Avenue,SOUTH EAST LONDON
+550000,Flat / Apartment,574,2,Coborn Street,EAST LONDON
+1235000,Flat / Apartment,960,2,4 Wood Crescent,CENTRAL LONDON
+2595000,Flat / Apartment,1452,3,Marylebone,CENTRAL LONDON
+900000,House,1467,3,Bollo Bridge Road,WEST LONDON
+2700000,Flat / Apartment,1665,3,33 Prince Albert Road,NORTH WEST LONDON
+650000,Flat / Apartment,798,3, Brick Lane,EAST LONDON
+550000,New development,728,2,Highbury,NORTH LONDON
+1150000,House,1398,3,Hackney,EAST LONDON
+595000,Flat / Apartment,702,2,Chiswick,WEST LONDON
+4850000,House,5613,5,Hampstead,NORTH WEST LONDON
+3195000,House,4923,6,Putney,CENTRAL LONDON
+795000,New development,925,2,Fortune Green,NORTH WEST LONDON
+625000,Flat / Apartment,537,2,Fulham,CENTRAL LONDON
+575000,New development,800,2, West Ealing,CENTRAL LONDON
+425000,Flat / Apartment,590,2,Balham High Road,CENTRAL LONDON
+1600000,Flat / Apartment,1763,4,Fulham,CENTRAL LONDON
+4500000,House,3908,6,Barnes,CENTRAL LONDON
+1200000,Flat / Apartment,1083,2,Montaigne Close,CENTRAL LONDON
+2495000,Flat / Apartment,1753,3,Ennismore Gardens,CENTRAL LONDON
+1275000,House,1750,4,Battersea,CENTRAL LONDON
+1500000,Flat / Apartment,798,2, St. James's,CENTRAL LONDON
+600000,Flat / Apartment,630,2,Maida Vale,CENTRAL LONDON
+575000,House,971,3,Raynes Park,SOUTH WEST LONDON
+925000,Flat / Apartment,893,2,Clapham,SOUTH WEST LONDON
+1300000,House,1347,3,Chiswick,WEST LONDON
+1100000,Flat / Apartment,2043,4,Putney,CENTRAL LONDON
+1450000,Flat / Apartment,961,2,Holland Villas Road,CENTRAL LONDON
+550000,Flat / Apartment,797,2,Great West Road,WEST LONDON
+1375000,House,1360,3,Putney,CENTRAL LONDON
+440000,Flat / Apartment,847,2,10 Frobisher Yard,EAST LONDON
+3500000,Flat / Apartment,1956,3,Marylebone,CENTRAL LONDON
+475000,Flat / Apartment,895,2, Bow,EAST LONDON
+825000,Flat / Apartment,1312,3,Brondesbury,NORTH WEST LONDON
+3500000,House,2956,5,Primrose Hill,NORTH WEST LONDON
+625000,Flat / Apartment,928,2, Stratford,EAST LONDON
+1295000,New development,1487,2,63 Mortlake High Street,CENTRAL LONDON
+2950000,House,2995,5,Putney,CENTRAL LONDON
+899995,Flat / Apartment,834,2,Notting Hill,CENTRAL LONDON
+1300000,House,1907,4,Hackney,EAST LONDON
+1495000,House,1020,2,Belsize Park,NORTH WEST LONDON
+795000,Flat / Apartment,922,2,Barnes,CENTRAL LONDON
+1450000,House,2106,4,Chiswick,WEST LONDON
+765000,Flat / Apartment,993,2,Wandsworth,CENTRAL LONDON
+825000,Flat / Apartment,616,1,East Smithfield,EAST LONDON
+1575000,House,1703,4, Fulham,CENTRAL LONDON
+875000,Flat / Apartment,943,2,Hampstead,NORTH WEST LONDON
+2850000,House,2833,5,Chiswick,WEST LONDON
+3500000,House,3775,7,Bedford Park,WEST LONDON
+2100000,House,2139,5,Chiswick,WEST LONDON
+3750000,Flat / Apartment,2315,4, St John's Wood,NORTH WEST LONDON
+2450000,Flat / Apartment,1289,2,Little Venice,CENTRAL LONDON
+498000,Flat / Apartment,554,1, Canary Wharf,EAST LONDON
+590000,Flat / Apartment,795,2,33 Eltringham Street,CENTRAL LONDON
+850000,Flat / Apartment,975,3, Battersea,CENTRAL LONDON
+1025000,Flat / Apartment,1070,3, Marylebone,NORTH WEST LONDON
+520000,Flat / Apartment,411,1,Marylebone,NORTH WEST LONDON
+1950000,House,2158,3,Putney,CENTRAL LONDON
+8950000,New development,2956,3,10 Whitehall Place,CENTRAL LONDON
+1295000,House,1364,3,Hackney,EAST LONDON
+410000,Flat / Apartment,547,1,Blackheath,SOUTH EAST LONDON
+625000,Flat / Apartment,541,1,10-12 Lawn Lane,SOUTH WEST LONDON
+595000,Flat / Apartment,735,2,1 Spectrum Way,CENTRAL LONDON
+2650000,New development,1191,2,Stone Hall Gardens,CENTRAL LONDON
+2500000,House,2882,6,Wandsworth,CENTRAL LONDON
+950000,House,1661,4,Battersea,SOUTH WEST LONDON
+1225000,Flat / Apartment,2056,3, Putney,CENTRAL LONDON
+1795000,Flat / Apartment,1118,2,Notting Hill,CENTRAL LONDON
+2295000,House,2899,4,Putney,CENTRAL LONDON
+5000000,Flat / Apartment,2248,4,Campden Hill Road,CENTRAL LONDON
+2895000,House,3414,6,Putney,CENTRAL LONDON
+3000000,House,4088,6,Ealing,WEST LONDON
+3950000,New development,4438,5,Wimbledon,CENTRAL LONDON
+965000,Flat / Apartment,925,2,Pimlico,CENTRAL LONDON
+2000000,House,2127,4,Barnes,CENTRAL LONDON
+3450000,New development,3802,5,Wimbledon,CENTRAL LONDON
+5650000,House,2753,4,Belgravia,CENTRAL LONDON
+2820000,New development,3900,5,Blackheath,SOUTH EAST LONDON
+2250000,House,2835,5,Wimbledon,CENTRAL LONDON
+1450000,House,1667,4,South Hackney,EAST LONDON
+1850000,Penthouse,1836,2, Spitalfields,EAST LONDON
+3000000,House,3325,7,Bloomsbury,CENTRAL LONDON
+1350000,Penthouse,1117,2,Clerkenwell,CITY OF LONDON
+625000,Flat / Apartment,636,1,Clerkenwell,CITY OF LONDON
+1650000,House,1576,4,Fulham,CENTRAL LONDON
+450000,Flat / Apartment,500,1,Camden,NORTH WEST LONDON
+850000,Flat / Apartment,848,2,Clerkenwell,CITY OF LONDON
+3950000,House,2803,5,St. John's Wood,NORTH WEST LONDON
+1195000,Flat / Apartment,678,1, Marylebone,CENTRAL LONDON
+650000,Flat / Apartment,1077,2,Wandsworth,CENTRAL LONDON
+3000000,House,3027,5, Parsons Green,CENTRAL LONDON
+550000,Flat / Apartment,960,2, Bow,EAST LONDON
+1000000,Flat / Apartment,659,1,67 Lower Sloane Street,CENTRAL LONDON
+9950000,House,4876,6,Regent's Park,NORTH WEST LONDON
+1500000,House,2123,5,Wandsworth,CENTRAL LONDON
+525000,Flat / Apartment,565,1,Camden,NORTH WEST LONDON
+2100000,Flat / Apartment,1367,3, Kensington,CENTRAL LONDON
+800000,Flat / Apartment,1044,2,Wandsworth,CENTRAL LONDON
+885000,Flat / Apartment,1113,3, Putney,CENTRAL LONDON
+2395000,House,2881,5,Putney,CENTRAL LONDON
+1680000,Flat / Apartment,1502,3, Paddington,CENTRAL LONDON
+2000000,House,2178,4,Chiswick,WEST LONDON
+1175000,House,1752,3,Chiswick,WEST LONDON
+2350000,House,2720,6,Fulham,CENTRAL LONDON
+1550000,Flat / Apartment,1227,2,Notting Hill,CENTRAL LONDON
+2500000,House,2314,4, Fulham,CENTRAL LONDON
+695000,Flat / Apartment,871,2,Highbury Stadium Square,NORTH LONDON
+2550000,House,2665,5,Wandsworth,CENTRAL LONDON
+565000,Flat / Apartment,711,2, Battersea,CENTRAL LONDON
+2500000,Flat / Apartment,1950,3,50 Holland Street,SOUTH EAST LONDON
+885000,Flat / Apartment,920,2,Wandsworth,CENTRAL LONDON
+399950,New development,362,1,Putney,CENTRAL LONDON
+895000,Flat / Apartment,1013,2, Primrose Hill,NORTH WEST LONDON
+1160000,New development,861,2,101 Wood Lane,CENTRAL LONDON
+2500000,Flat / Apartment,1227,2, St John's Wood,NORTH WEST LONDON
+2500000,House,3613,7,Highgate,NORTH LONDON
+1175000,House,1601,4,Wimbledon,CENTRAL LONDON
+360000,Flat / Apartment,630,2,South Hackney,EAST LONDON
+670000,Flat / Apartment,920,2, Putney,CENTRAL LONDON
+1250000,House,1828,4,Fulham,CENTRAL LONDON
+350000,Flat / Apartment,422,1,Monks Drive,WEST LONDON
+4250000,House,1978,4,Knightsbridge,CENTRAL LONDON
+405000,Flat / Apartment,376,1,South Hackney,EAST LONDON
+1695000,House,2160,4,Islington,NORTH LONDON
+850000,Flat / Apartment,770,2,Islington,NORTH LONDON
+1295000,Flat / Apartment,924,2,101 Wood Lane,CENTRAL LONDON
+2750000,Flat / Apartment,1765,3,Hammersmith,WEST LONDON
+2750000,Flat / Apartment,1539,3, Vauxhall,SOUTH WEST LONDON
+599950,Flat / Apartment,495,1,Clerkenwell,CITY OF LONDON
+1100000,Flat / Apartment,1461,3,1 School Mews,EAST LONDON
+4750000,House,2890,5,Belsize Park,NORTH WEST LONDON
+2500000,House,3053,5,Barnes,CENTRAL LONDON
+1250000,Flat / Apartment,1281,2,1 Brasenose Drive,CENTRAL LONDON
+1650000,New development,1887,2,63 Mortlake High Street,CENTRAL LONDON
+6250000,House,3215,5,Chelsea,CENTRAL LONDON
+5295000,Penthouse,2807,4, St John's Wood,NORTH WEST LONDON
+699950,Flat / Apartment,1087,3,9 The Downs,SOUTH WEST LONDON
+3100000,House,2885,6, Fulham,CENTRAL LONDON
+700000,Flat / Apartment,990,2, Battersea,CENTRAL LONDON
+1600000,Flat / Apartment,1078,2, Westminster,CENTRAL LONDON
+625000,House,899,2,Putney,CENTRAL LONDON
+1895000,House,1975,5,Swiss Cottage,NORTH WEST LONDON
+485000,Flat / Apartment,454,1,Notting Hill,CENTRAL LONDON
+2150000,House,2887,6,Ealing,WEST LONDON
+565000,Flat / Apartment,895,2, Greenwich,SOUTH EAST LONDON
+1850000,New development,1978,3,63 Mortlake High Street,CENTRAL LONDON
+1275000,House,1766,4,Wandsworth,CENTRAL LONDON
+1050000,New development,546,1,Primrose Hill,NORTH WEST LONDON
+6950000,New development,4295,5,Hampstead,NORTH WEST LONDON
+995000,Flat / Apartment,1115,2, Battersea,CENTRAL LONDON
+1150000,Flat / Apartment,1346,3,Highgate,NORTH LONDON
+2200000,Penthouse,1715,2,63 Mortlake High Street,CENTRAL LONDON
+1800000,Penthouse,1490,2,63 Mortlake High Street,CENTRAL LONDON
+925000,New development,1033,3, Maida Vale,CENTRAL LONDON
+1800000,Flat / Apartment,1441,3,Little Venice,CENTRAL LONDON
+1000000,Flat / Apartment,923,2,Islington,NORTH LONDON
+835000,Flat / Apartment,744,2,11 Brewhouse Yard,CITY OF LONDON
+1900000,Flat / Apartment,2114,2,8 Princelet Street,EAST LONDON
+540000,Flat / Apartment,615,2,Putney,CENTRAL LONDON
+899950,Flat / Apartment,1025,3,70 Sancroft Street,SOUTH EAST LONDON
+5950000,House,6776,8,Clapham,SOUTH WEST LONDON
+460000,Flat / Apartment,767,2,Copperwood Place,SOUTH EAST LONDON
+730000,Flat / Apartment,626,2,Medway Street,CENTRAL LONDON
+1195000,Flat / Apartment,839,2,St. John's Wood,NORTH WEST LONDON
+3200000,House,2634,5,Battersea,CENTRAL LONDON
+2170000,New development,1083,3, Earls Court,CENTRAL LONDON
+899995,Flat / Apartment,863,2, Old Street,CITY OF LONDON
+6395000,House,2944,3,St. John's Wood,NORTH WEST LONDON
+1350000,Flat / Apartment,750,2,33 Ebury Street,CENTRAL LONDON
+5000000,Penthouse,4004,4, Pimlico,CENTRAL LONDON
+2300000,House,2713,6,Fulham,CENTRAL LONDON
+6100000,Flat / Apartment,2625,5, Marylebone,CENTRAL LONDON
+950000,House,968,2,Ealing,WEST LONDON
+2325000,Penthouse,1895,4,Pimlico,CENTRAL LONDON
+17950000,House,14358,7,Hampstead Garden Suburb,NORTH WEST LONDON
+1195000,Flat / Apartment,1039,3,Old Brompton Road,CENTRAL LONDON
+2250000,House,1874,5,Chiswick,WEST LONDON
+595000,Flat / Apartment,674,2, Battersea,CENTRAL LONDON
+800000,Flat / Apartment,907,2, Ealing,WEST LONDON
+3500000,Flat / Apartment,2423,4, St. John's Wood,NORTH WEST LONDON
+3950000,House,4188,7,Chiswick,WEST LONDON
+500000,Flat / Apartment,945,4,Clapham,SOUTH WEST LONDON
+950000,Flat / Apartment,870,2,Clerkenwell,CITY OF LONDON
+470000,Penthouse,496,1, Shoreditch,EAST LONDON
+1250000,Flat / Apartment,969,3,Primrose Hill,NORTH WEST LONDON
+850000,House,1017,2,Battersea,CENTRAL LONDON
+1325000,Flat / Apartment,1167,3,Tufton Street,CENTRAL LONDON
+6950000,Flat / Apartment,1584,3,199 Knightsbridge,CENTRAL LONDON
+3400000,House,2441,4,Hammersmith,WEST LONDON
+1650000,Flat / Apartment,1189,2,76 Marsham Street,CENTRAL LONDON
+2750000,Flat / Apartment,2080,4, Chelsea,CENTRAL LONDON
+2200000,Flat / Apartment,1119,2,Marylebone,CENTRAL LONDON
+3875000,House,4095,7, Fulham,CENTRAL LONDON
+475000,Flat / Apartment,542,1,23 Plumbers Row,EAST LONDON
+450000,Flat / Apartment,738,2,4 Killick Way,EAST LONDON
+3500000,House,3001,5,Barnes,CENTRAL LONDON
+865000,Flat / Apartment,1551,3,3 Arnhem Place,EAST LONDON
+8250000,Penthouse,4555,5, Southwark,SOUTH EAST LONDON
+7500000,House,3792,5,Regent's Park,NORTH WEST LONDON
+7925000,House,2648,4,Mayfair,CENTRAL LONDON
+5250000,House,4144,6,Battersea Park,CENTRAL LONDON
+595000,Flat / Apartment,795,2,Woodberry Grove,NORTH LONDON
+2650000,House,2454,6,Fulham,CENTRAL LONDON
+5950000,Penthouse,2220,4, St John's Wood,NORTH WEST LONDON
+5600000,Flat / Apartment,2509,4, St. John's Wood,NORTH WEST LONDON
+1195000,Flat / Apartment,1024,3, Fulham,CENTRAL LONDON
+975000,Flat / Apartment,1194,3,Hackney,EAST LONDON
+725000,Flat / Apartment,521,1,Notting Hill,CENTRAL LONDON
+1375000,New development,1203,3,Canary Wharf,EAST LONDON
+1850000,Penthouse,1268,2, Canary Wharf,EAST LONDON
+1825000,New development,934,2,Victoria,CENTRAL LONDON
+1325000,Flat / Apartment,2403,4, Putney,CENTRAL LONDON
+575000,New development,531,1, Canary Wharf,EAST LONDON
+550000,Flat / Apartment,672,2,205 Richmond Road,EAST LONDON
+2200000,Flat / Apartment,1337,3,Duchess of Bedfords Walk,CENTRAL LONDON
+2000000,House,1450,4,Islington,NORTH LONDON
+765000,Flat / Apartment,1234,3,Royal Docks,EAST LONDON
+7500000,House,3871,5,Ebury Street,CENTRAL LONDON
+1320000,New development,1452,2,63 Mortlake High Street,CENTRAL LONDON
+550000,Flat / Apartment,558,2, Halton Road,NORTH LONDON
+1600000,Flat / Apartment,1535,4,Paddington,CENTRAL LONDON
+890000,Flat / Apartment,800,2,Clerkenwell,CITY OF LONDON
+862000,New development,978,3, Battersea,CENTRAL LONDON
+775000,New development,636,1, Battersea,CENTRAL LONDON
+1600000,New development,1500,3,Barnes,CENTRAL LONDON
+680000,Flat / Apartment,484,1,54-57 Devonshire Street,CENTRAL LONDON
+1800000,Flat / Apartment,1386,3,Prince of Wales Drive,CENTRAL LONDON
+1490000,Flat / Apartment,1452,3,Prince of Wales Drive,CENTRAL LONDON
+1500000,Flat / Apartment,1088,2,Albert Bridge Road,CENTRAL LONDON
+1100000,Flat / Apartment,1056,1, Clerkenwell,CITY OF LONDON
+1030000,Flat / Apartment,959,2,Brook Green,CENTRAL LONDON
+1350000,Flat / Apartment,1007,2,3 Wood Crescent,CENTRAL LONDON
+880000,Flat / Apartment,693,2,188 Cromwell Road,CENTRAL LONDON
+875000,Flat / Apartment,1278,2, Canary Wharf,EAST LONDON
+544999,Flat / Apartment,792,2, Greenwich,SOUTH EAST LONDON
+5250000,Flat / Apartment,2456,4, Chelsea,CENTRAL LONDON
+2150000,New development,2453,4,Highgate,NORTH LONDON
+2000000,New development,2421,4,Highgate,NORTH LONDON
+1000000,House,2701,4,Brentford,OTHER
+3850000,Flat / Apartment,995,2,Mayfair,CENTRAL LONDON
+7250000,New development,3185,4,Primrose Hill,NORTH WEST LONDON
+2850000,Flat / Apartment,2163,4,Bickenhall Street,CENTRAL LONDON
+1650000,Flat / Apartment,1139,3, Chelsea,CENTRAL LONDON
+1700000,Flat / Apartment,788,2, Mayfair,CENTRAL LONDON
+2395000,House,2277,4,Stoke Newington,NORTH LONDON
+3650000,House,2390,4,Marylebone,CENTRAL LONDON
+2800000,House,3502,6,Barnes,CENTRAL LONDON
+3499000,House,4831,5,Putney,CENTRAL LONDON
+2350000,House,3134,6,Putney,CENTRAL LONDON
+4000000,House,3394,6, Fulham,CENTRAL LONDON
+525000,Flat / Apartment,1030,3,32 Duckett Street,EAST LONDON
+575000,Flat / Apartment,924,2, Greenwich,SOUTH EAST LONDON
+1495000,House,1965,4,Shepherd's Bush,CENTRAL LONDON
+925000,New development,666,1,Duchess Walk,SOUTH EAST LONDON
+3250000,House,1929,4,Notting Hill,CENTRAL LONDON
+1200000,Flat / Apartment,1574,3, Canary Wharf,EAST LONDON
+1250000,House,1252,3,Stoke Newington,NORTH LONDON
+4350000,Flat / Apartment,1773,3,19-21 Chesham Street,CENTRAL LONDON
+2950000,Flat / Apartment,1055,2,Kensington Gore,CENTRAL LONDON
+400000,House,571,1,Canary Wharf,EAST LONDON
+950000,Flat / Apartment,519,1,St James's,CENTRAL LONDON
+1300000,Flat / Apartment,1210,3,Hampstead,NORTH WEST LONDON
+800000,Flat / Apartment,1066,2, Canary Wharf,EAST LONDON
+1200000,Flat / Apartment,1147,3, Fulham,CENTRAL LONDON
+2999000,Flat / Apartment,1581,3,Prince Albert Road,NORTH WEST LONDON
+2995000,House,2486,5, Fulham,CENTRAL LONDON
+600000,Flat / Apartment,799,2,22 Ensign Street,EAST LONDON
+6995000,House,8880,7,Clapham,SOUTH WEST LONDON
+1000000,Flat / Apartment,1156,3,Buckingham Palace Road,CENTRAL LONDON
+3950000,House,2029,4,Regent's Park,NORTH WEST LONDON
+18500000,House,8603,6,Marylebone,CENTRAL LONDON
+485000,Flat / Apartment,563,1,Hackney,EAST LONDON
+12750000,House,7526,6,Marylebone,CENTRAL LONDON
+1295000,Flat / Apartment,1372,2,Wimbledon,CENTRAL LONDON
+550000,Flat / Apartment,691,1, Canary Wharf,EAST LONDON
+9500000,House,4683,6,Notting Hill,CENTRAL LONDON
+1750000,Penthouse,1535,3,St John's Wood,NORTH WEST LONDON
+1650000,Flat / Apartment,1698,4,252 Old Brompton Road,CENTRAL LONDON
+1700000,Flat / Apartment,1796,3, Barnes,CENTRAL LONDON
+800000,Flat / Apartment,993,2,Wandsworth,CENTRAL LONDON
+2650000,House,3468,5,Putney,CENTRAL LONDON
+3500000,New development,2720,5,Barnes,CENTRAL LONDON
+320000,Flat / Apartment,469,1, Canary Wharf,EAST LONDON
+2700000,New development,1087,3, Fitzrovia,CENTRAL LONDON
+3750000,Penthouse,1589,3,St James's,CENTRAL LONDON
+800000,Flat / Apartment,572,1,City Of London,CITY OF LONDON
+4250000,House,2940,4,Islington,NORTH LONDON
+700000,Flat / Apartment,736,1, Barnes,CENTRAL LONDON
+4750000,House,4206,4,East Sheen,CENTRAL LONDON
+3750000,Penthouse,2433,3, Marylebone,CENTRAL LONDON
+1100000,Flat / Apartment,1024,2,Shoreditch,CITY OF LONDON
+2695000,House,3646,7,Putney,CENTRAL LONDON
+1850000,New development,942,2,4 Radnor Terrace,CENTRAL LONDON
+3500000,Penthouse,1662,3, Westminster,CENTRAL LONDON
+4075000,House,5675,7,Putney,CENTRAL LONDON
+6950000,New development,1968,3,6 Campden Hill,CENTRAL LONDON
+2500000,House,2597,4,Highgate,NORTH LONDON
+830000,New development,600,1, Earls Court,CENTRAL LONDON
+1425000,New development,911,2, Earls Court,CENTRAL LONDON
+14500000,Flat / Apartment,4506,4, Marylebone,CENTRAL LONDON
+699950,Flat / Apartment,901,1,St Johns Wood,NORTH WEST LONDON
+900000,New development,522,1, Farringdon,CITY OF LONDON
+19000000,House,6796,7,Belgravia,CENTRAL LONDON
+525000,Flat / Apartment,844,2, Canary Wharf,EAST LONDON
+1100000,Flat / Apartment,781,2,Hampstead,NORTH WEST LONDON
+8850000,Penthouse,5138,3,44 The Bishops Avenue,NORTH LONDON
+5695000,House,3110,4,St John's Wood,NORTH WEST LONDON
+725000,Flat / Apartment,1007,2,Asher Way,EAST LONDON
+23950000,New development,15405,7,Hampstead Heath,NORTH WEST LONDON
+1300000,Flat / Apartment,834,2,Bayswater,CENTRAL LONDON
+1550000,New development,1016,2,5 Wood Crescent,CENTRAL LONDON
+1425000,Flat / Apartment,1218,2,Westminster,CENTRAL LONDON
+6175000,Penthouse,3150,3, Hampstead,NORTH WEST LONDON
+800000,Flat / Apartment,524,1, Barbican,CITY OF LONDON
+950000,Flat / Apartment,1241,3,Hampstead,NORTH WEST LONDON
+3200000,New development,2303,3,257 City Road,CITY OF LONDON
+1300000,House,1690,4,Wandsworth,CENTRAL LONDON
+1700000,Flat / Apartment,1771,3, Canary Wharf,EAST LONDON
+1400000,House,1814,4,Cricklewood,NORTH WEST LONDON
+1195000,New development,922,2,Canary Wharf,EAST LONDON
+1125000,New development,1176,2,Canary Wharf,EAST LONDON
+4950000,Flat / Apartment,2097,3,Marylebone,CENTRAL LONDON
+2300000,Flat / Apartment,1055,2,Basil Street,CENTRAL LONDON
+1950000,New development,1077,3, Earls Court,CENTRAL LONDON
+3450000,Flat / Apartment,1954,2, Battersea,CENTRAL LONDON
+3995000,House,3917,5,Wandsworth,CENTRAL LONDON
+1495000,Flat / Apartment,1115,3, Lambeth,SOUTH EAST LONDON
+1350000,House,1683,4,Chiswick,WEST LONDON
+975000,New development,1065,3,20 St. Josephs Street,SOUTH WEST LONDON
+1450000,Flat / Apartment,1465,2,52 Parkside,CENTRAL LONDON
+3750000,House,3808,5,Barnes,CENTRAL LONDON
+1950000,Flat / Apartment,1244,2,Westminster,CENTRAL LONDON
+2950000,Penthouse,1884,3, Lambeth,SOUTH EAST LONDON
+5250000,House,3108,8,Marylebone,CENTRAL LONDON
+4950000,House,4452,7,Wandsworth,CENTRAL LONDON
+525000,Flat / Apartment,619,1,Pamela Street,EAST LONDON
+435000,New development,474,1,New Gun Wharf,EAST LONDON
+1800000,Flat / Apartment,1070,3,Whiteheads Grove,CENTRAL LONDON
+1000000,Flat / Apartment,985,1,3-5 Elystan Place,CENTRAL LONDON
+1450000,New development,1007,2,2 Gatliff Road,CENTRAL LONDON
+1050000,New development,1010,3, Grosvenor Waterside,CENTRAL LONDON
+1050000,New development,758,1, Grosvenor Waterside,CENTRAL LONDON
+3950000,New development,1924,3,Kensington,CENTRAL LONDON
+765000,Flat / Apartment,1122,1,St. John's Wood,NORTH WEST LONDON
+850000,Flat / Apartment,1008,2,Putney,CENTRAL LONDON
+34000000,House,7798,6,Belgravia,CENTRAL LONDON
+1800000,Flat / Apartment,1388,3,St. Marys Terrace,CENTRAL LONDON
+485000,Flat / Apartment,632,2,St James Avenue,EAST LONDON
+2250000,Flat / Apartment,1292,2, Westminster,CENTRAL LONDON
+840000,House,910,3,South Hackney,EAST LONDON
+750000,New development,579,1,101 Wood Lane,CENTRAL LONDON
+1025000,Flat / Apartment,1358,3, Fulham,CENTRAL LONDON
+2750000,Flat / Apartment,2136,3, Chelsea,CENTRAL LONDON
+1500000,Flat / Apartment,1494,4,Clerkenwell,CITY OF LONDON
+1000000,House,954,2,Putney,CENTRAL LONDON
+1950000,Flat / Apartment,1878,3, Putney,CENTRAL LONDON
+925000,Flat / Apartment,1023,2,Chiswick,WEST LONDON
+450000,Flat / Apartment,675,2,Skinner Street,CITY OF LONDON
+2500000,Flat / Apartment,1738,4,Primrose Hill,NORTH WEST LONDON
+8950000,House,5727,6,St. John's Wood,NORTH WEST LONDON
+800000,Flat / Apartment,681,1,617 Kings Road,CENTRAL LONDON
+1750000,New development,1453,2,617 Kings Road,CENTRAL LONDON
+1200000,New development,1140,3, Ealing,WEST LONDON
+790000,New development,591,1,101 Wood Lane,CENTRAL LONDON
+639950,New development,779,2, Battersea,CENTRAL LONDON
+1119900,Penthouse,1141,3, Battersea,CENTRAL LONDON
+559950,New development,546,1, Battersea,CENTRAL LONDON
+2725000,Flat / Apartment,1971,3, Belsize Park,NORTH WEST LONDON
+12950000,House,4693,5,Regent's Park,NORTH WEST LONDON
+725000,Flat / Apartment,860,2,23 West Side Common,CENTRAL LONDON
+600000,Flat / Apartment,593,1,Kentish Town,NORTH WEST LONDON
+2500000,Flat / Apartment,1680,3,Hampstead,NORTH WEST LONDON
+3500000,House,3174,4,Islington,NORTH LONDON
+2850000,House,3600,5,East Sheen,CENTRAL LONDON
+6250000,New development,2459,4, Shad Thames,SOUTH EAST LONDON
+1250000,Flat / Apartment,816,2, St. John's Wood,NORTH WEST LONDON
+8900000,Penthouse,2544,4, Earls Court,CENTRAL LONDON
+349950,Flat / Apartment,517,1,Windsor Street,NORTH LONDON
+2250000,Flat / Apartment,1515,3, Chelsea,CENTRAL LONDON
+675000,New development,823,2, Battersea,CENTRAL LONDON
+14750000,House,9053,9,Marylebone,CENTRAL LONDON
+1300000,Flat / Apartment,1367,3,Brook Green,WEST LONDON
+1350000,Flat / Apartment,1154,4,Prince of Wales Drive,CENTRAL LONDON
+1600000,New development,1528,3, Golders Green,NORTH WEST LONDON
+1400000,Flat / Apartment,880,2, Westminster,CENTRAL LONDON
+16000000,Flat / Apartment,3486,3,Mayfair,CENTRAL LONDON
+1150000,Flat / Apartment,1032,3, Maida Vale,CENTRAL LONDON
+1230000,New development,960,2,Canary Wharf,EAST LONDON
+995000,New development,872,2, Golders Green,NORTH WEST LONDON
+11950000,New development,2347,2,Mayfair,CENTRAL LONDON
+2450000,Penthouse,2262,3,112 York Road,CENTRAL LONDON
+599995,Flat / Apartment,583,1,Clerkenwell,CITY OF LONDON
+1395000,Flat / Apartment,940,3, Marylebone,CENTRAL LONDON
+1075000,New development,1280,2,65 Maygrove Road,NORTH WEST LONDON
+530000,New development,577,1, Battersea,CENTRAL LONDON
+710000,New development,820,2, Crouch End,NORTH LONDON
+6500000,Flat / Apartment,2165,2,Mayfair,CENTRAL LONDON
+8500000,Flat / Apartment,2665,3,Mayfair,CENTRAL LONDON
+13750000,Penthouse,2476,3,25 Cork Street,CENTRAL LONDON
+2900000,New development,1293,2, 161 Millbank,CENTRAL LONDON
+25000000,House,12435,5,St Johns Wood,NORTH WEST LONDON
+4100000,New development,1236,2,Mayfair,CENTRAL LONDON
+10000000,Penthouse,3368,4,St John's Wood,NORTH WEST LONDON
+2300000,House,1705,3,Holland Park,CENTRAL LONDON
+9500000,House,3974,8,St John's Wood,NORTH WEST LONDON
+800000,New development,619,1,6 Wood Crescent,CENTRAL LONDON
+9000000,House,3932,4,Notting Hill,CENTRAL LONDON
+1800000,New development,1352,3, Hampstead,NORTH WEST LONDON
+5950000,New development,2770,2,Notting Hill,CENTRAL LONDON
+1385000,Flat / Apartment,1056,3, Victoria,CENTRAL LONDON
+2500000,House,1702,3,Pimlico,CENTRAL LONDON
+7400000,New development,2806,4,Lots Road,CENTRAL LONDON
+25000000,New development,8356,5,St James's,CENTRAL LONDON
+4950000,House,2688,4,St John's Wood,NORTH WEST LONDON
+1150000,Flat / Apartment,1349,2, Barnes,CENTRAL LONDON
+2565000,New development,1766,3, Battersea,CENTRAL LONDON
+1044000,New development,869,2, Battersea,CENTRAL LONDON
+772000,New development,603,1, Battersea,CENTRAL LONDON
+1466000,New development,1026,3, Battersea,CENTRAL LONDON
+1123000,New development,772,2, Battersea,CENTRAL LONDON
+778000,New development,636,1, Battersea,CENTRAL LONDON
+10950000,House,4728,6,St John's Wood,NORTH WEST LONDON
+8950000,New development,2956,3,10 Whitehall Place,CENTRAL LONDON
+1150000,Flat / Apartment,915,3,Primrose Hill,NORTH WEST LONDON
+4950000,House,2881,4,Kensington,CENTRAL LONDON
+21000000,Penthouse,5417,5,30 Montpelier Walk,CENTRAL LONDON
+9950000,New development,2782,2,Cheyne Terrace,CENTRAL LONDON
+2500000,Flat / Apartment,2480,4,Hampstead,NORTH WEST LONDON
+4900000,House,3467,4,Regent's Park,NORTH WEST LONDON
+9950000,Flat / Apartment,1682,2,100 Knightsbridge,CENTRAL LONDON
+1995000,House,2200,5,Battersea,CENTRAL LONDON
+950000,Flat / Apartment,1327,2, Canary Wharf,EAST LONDON
+2350000,Flat / Apartment,2207,2, Fulham,CENTRAL LONDON
+2495000,House,3047,6,Wimbledon,SOUTH WEST LONDON
+5500000,New development,1409,2,Mayfair,CENTRAL LONDON
+1200000,House,1692,4,Wandsworth,CENTRAL LONDON
+6950000,House,3988,3,Hampstead,NORTH WEST LONDON
+11300000,Penthouse,3817,4,St. John's Wood,NORTH WEST LONDON
+9300000,New development,2496,3, St James's,CENTRAL LONDON
+4300000,House,3660,4, The City,CITY OF LONDON
+1850000,Flat / Apartment,1080,2, Waterfront Drive,CENTRAL LONDON
+8250000,House,3940,5,St. John's Wood,NORTH WEST LONDON
+4950000,Flat / Apartment,1581,3,Chelsea,CENTRAL LONDON
+1750000,Flat / Apartment,1553,2, Chelsea,CENTRAL LONDON
+19950000,Flat / Apartment,3698,5,Mayfair,CENTRAL LONDON
+5275000,Flat / Apartment,1749,3,St James's,CENTRAL LONDON
+5995000,House,4435,6,Hampstead Garden Suburb,NORTH WEST LONDON
+6300000,New development,1506,3,Mayfair,CENTRAL LONDON
+8650000,House,5395,6,Highgate,NORTH LONDON
