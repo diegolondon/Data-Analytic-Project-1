@@ -20,6 +20,7 @@ We looked at 33 boroughs, extrapolated it, and narrowed it down to the top and b
 
 ### Data Sets Used:
 https://www.kaggle.com/datasets/arnavkulkarni/housing-prices-in-london
+https://www.kaggle.com/datasets/justinas/housing-in-london
 https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-june-2020
 
 ### References:
