@@ -11,8 +11,8 @@ The analysis will aim to analyse the property prices in London Boroughs and fact
 ### Research Questions:
 1.   What are the most popular types of properties for sale in the London?
 2.   What is the correlation between house prices and crime statistics?
-3.   What are the average prices of boroughs over 15 years? (Top 5 and lowest 5)
-4.   With the use of APIs, what are the correlation of average prices with certain amenities? 
+3.   How do property prices in London compare with other major cities over the last 25 years?
+4.   With the use of Apis, what are the correlation of average prices with certain amenities? 
 5.   Which boroughs are fastest growing?
 
 ### Conclusion:
