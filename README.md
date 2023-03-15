@@ -11,7 +11,7 @@ The project will also investigate differences between regions and cities in the 
 ### Research Questions:
 1.   What are the most popular types of properties for sale in the London?
 2.   What is the correlation between house prices and mean salary?
-3.   What are the average prices of boroughs over 15 years? (Top 5 and lowest 5)
+3.   How do house prices in London compare with other major cities over the last 25 years?
 4.   With the use of Apis, what are the correlation of average prices with certain amenities? 
 5.   What is the correlation between house prices and crime statistics?
 
