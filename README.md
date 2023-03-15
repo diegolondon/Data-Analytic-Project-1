@@ -19,9 +19,9 @@ The analysis will aim to analyse the property prices in London Boroughs and fact
 We looked at 33 boroughs, extrapolated it, and narrowed it down to the top and bottom five to give an idea of the most affluent and poorest boroughs. We discovered the following through our research:
 
 ### Data Sets Used:
-https://www.kaggle.com/datasets/arnavkulkarni/housing-prices-in-london
-https://www.kaggle.com/datasets/justinas/housing-in-london
-https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-june-2020
+1. https://www.kaggle.com/datasets/arnavkulkarni/housing-prices-in-london
+2. https://www.kaggle.com/datasets/justinas/housing-in-london
+3. https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-june-2020
 
 ### References:
 https://www.youtube.com/watch?v=Wqmtf9SA_kk&t=1046s&ab_channel=NeuralNine
