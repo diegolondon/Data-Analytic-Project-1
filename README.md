@@ -15,6 +15,14 @@ The project will also investigate differences between regions and cities in the 
 4.   With the use of Apis, what are the correlation of average prices with certain amenities? 
 5.   What is the correlation between house prices and crime statistics?
 
+### Conclusion:
+We looked at 33 boroughs, extrapolated it, and narrowed it down to the top and bottom five to give an idea of the most affluent and poorest borougs. We discovered the following through our research:
+1.
+2.
+3.
+4.
+5.
+
 ### Data Sets Used:
 https://www.kaggle.com/datasets/arnavkulkarni/housing-prices-in-london
 https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-june-2020
