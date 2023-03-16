@@ -21,6 +21,7 @@ We looked at 33 boroughs, extrapolated it, and narrowed it down to the top and b
 3. The highest house prices are in following areas: Kensington and Chelsea, Westminster, Camden Hammersmith & Fulham, Richmond upon Thames, and Islington.
 4. Where the crimes were at the highest, these were tourist areas.
 5. House prices have increased almost 8 times the cost over the last 25 years.
+6. Average salary did not correlate with the prices of the house. 
 
 ### Data Sets Used:
 1. https://www.kaggle.com/datasets/arnavkulkarni/housing-prices-in-london
