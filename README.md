@@ -17,7 +17,7 @@ The analysis will aim to analyse the property prices in London Boroughs and fact
 
 ### Conclusion:
 We looked at 33 boroughs, extrapolated it, and narrowed it down to the top and bottom five to give an idea of the most affluent and poorest boroughs. We discovered the following through our research:
-1. From the data we collected, flat/apartment is the most popular type of property to live in London and the feature that was most important in determining a 'house type' value is the square footage. 
+1. According to the data we gathered, flats and apartments are the most common kind of property to live in, and square footage is the factor that has the biggest impact on how much a property is worth.
 
 ### Data Sets Used:
 1. https://www.kaggle.com/datasets/arnavkulkarni/housing-prices-in-london
