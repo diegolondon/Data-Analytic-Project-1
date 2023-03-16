@@ -4,20 +4,20 @@
 Team Members -  Diego (Team Leader), Vera, Lewis, Prav, Hamim, Sultana
 
 ### Project Description/Outline:
-The aim of this project is to analyse the London housing market using data from public sources and APIs.
-The analysis will aim to analyse the property prices in London Boroughs and factors influencing them. 
-
+Analysis of Property Prices In the different Boroughs In London and other influences on the property price.
 
 ### Research Questions:
 1.   What are the most popular types of properties for sale in the London?
-2.   What is the correlation between house prices and crime statistics?
-3.   How do property prices in London compare with other major cities over the last 25 years?
-4.   With the use of Apis, what are the correlation of average prices with certain amenities? 
-5.   Which boroughs are fastest growing?
+2.   What is the correlation between house prices and average salary in London? Which areas have a higher salary?
+3.   How do property prices in London compare with other major cities in the UK over the last 25 years?
+4.   What is the correlation between house prices and crime statistics?
+5.   With the use of Apis, what are the correlation of average prices with certain amenities (Restaurants and Bars? 
+
 
 ### Conclusion:
 We looked at 33 boroughs, extrapolated it, and narrowed it down to the top and bottom five to give an idea of the most affluent and poorest boroughs. We discovered the following through our research:
 1. According to the data we gathered, flats and apartments are the most common kind of property to live in, and square footage is the factor that has the biggest impact on how much a property is worth.
+
 
 ### Data Sets Used:
 1. https://www.kaggle.com/datasets/arnavkulkarni/housing-prices-in-london
