@@ -17,7 +17,10 @@ Analysis of Property Prices In the different Boroughs In London and other influe
 ### Conclusion:
 We looked at 33 boroughs, extrapolated it, and narrowed it down to the top and bottom five to give an idea of the most affluent and poorest boroughs. We discovered the following through our research:
 1. According to the data we gathered, flats and apartments are the most common kind of property to live in, and square footage is the factor that has the biggest impact on how much a property is worth.
-
+2. Central London has the highest population density compared to other 'London Postcodes.
+3. The highest house prices are in following areas: Kensington and Chelsea, Westminster, Camden Hammersmith & Fulham, Richmond upon Thames, and Islington.
+4. Where the crimes were at the highest, these were tourist areas.
+5. House prices have increased almost 8 times the cost over the last 25 years
 
 ### Data Sets Used:
 1. https://www.kaggle.com/datasets/arnavkulkarni/housing-prices-in-london
